@@ -1,3 +1,11 @@
+```
+ ____ ____ ____ ____ 
+||W |||3 |||P |||S ||
+||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|
+```
+
+
 # Web3Privacy Summits (w3ps)
 
 The *Web3Privacy Summit* is a regular gathering of the people interested in privacy in the Web3 industry.
