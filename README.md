@@ -5,14 +5,14 @@ This initiative was created to complement the research and community of [Web3Pri
 
 ## List of summits
 
-| # | id | date | name | location | coincidence |
+| # | id | date | location | links | coincidence |
 | --- | --- | --- | --- | --- | --- |
-| #1 | `w3ps1` | 2023-06-05 | **[Prague 2023](https://prague.web3privacy.info/)** ([source](https://github.com/web3privacy/w3ps1)) | Prague, Czechia 🇨🇿 | [Prague Blockchain Week](https://prgblockweek.com/) 2023 |
-| #2 | `w3ps2` | 2023-11-?? | **Brno 2023** | Brno, Czechia 🇨🇿 | Followed by [ETHBrno](https://ethbrno.cz/)×3
-| - | - | *2024/Q1* | *Barcelona 2024*  | Barcelona, Spain 🇪🇸 |
-| - | - | *2024/Q2* | *Prague 2024* | Prague, Czechia 🇨🇿 | [Prague Blockchain Week](https://prgblockweek.com/) 2024?
-| - | - | *2024/Q3* | *Kyiv 2024* | Kyiv, Ukraine 🇺🇦 |
-| - | - | *2024/Q4* | *Brno 2024* | Brno, Czechia 🇨🇿 | Followed by [ETHBrno](https://ethbrno.cz/)IV
+| #1 | [`w3ps1`](https://github.com/web3privacy/w3ps1) | 2023-06-05 | Prague, Czechia 🇨🇿 | [web](https://prague.web3privacy.info/) | [Prague Blockchain Week](https://prgblockweek.com/) 2023 | 
+| #2 | `w3ps2` | 2023-11-?? | Brno, Czechia 🇨🇿 || Followed by [ETHBrno](https://ethbrno.cz/)×3
+| - | - | *2024/Q1* | Barcelona, Spain 🇪🇸 ||
+| - | - | *2024/Q2* | Prague, Czechia 🇨🇿 || [Prague Blockchain Week](https://prgblockweek.com/) 2024?
+| - | - | *2024/Q3* | Kyiv, Ukraine 🇺🇦 ||
+| - | - | *2024/Q4* | Brno, Czechia 🇨🇿 || Followed by [ETHBrno](https://ethbrno.cz/)IV
 
 
 ## About Web3Privacy Now
