@@ -19,14 +19,14 @@ This initiative was created to complement the research and community of [Web3Pri
 
 | type+# | id | date | location | links | coincidence |
 | --- | --- | --- | --- | --- | --- |
-| Summit #1 | [`w3ps1`](https://github.com/web3privacy/w3ps1) | 2023-06-05 | 🇨🇿 Prague | [web](https://prague.web3privacy.info/), [tickets](https://tickets.web3privacy.info/w3ps1/) | [Prague Blockchain Week](https://prgblockweek.com/) 2023 | 
-| Summit #2 | `w3ps2` | 2023-11-?? | 🇨🇿 Brno || Followed by [ETHBrno](https://ethbrno.cz/)×3 |
+| Summit #1 | [`w3ps1`](https://github.com/web3privacy/w3ps1) | 2023-06-05 | 🇨🇿 Prague | [web](https://prague.web3privacy.info/) | [Prague Blockchain Week](https://prgblockweek.com/) 2023 | 
+| Summit #2 | `w3ps2` | 2023-11-02 | 🇨🇿 Brno || Followed by [ETHBrno](https://ethbrno.cz/)×3 |
 | *Summit* | - | *2024/Q1* | 🇪🇸 Barcelona ||
 | *Summit* | - | *2024/Q2* | 🇨🇿 Prague || [Prague Blockchain Week](https://prgblockweek.com/) 2024? |
 | *Summit* | - | *2024/Q3* | 🇺🇦 Kyiv || Around [Kyiv Tech Summit](https://www.kyivtechsummit.com/) (?) |
 | *Summit* | - | *2024/Q4* | 🇨🇿 Brno || Followed by [ETHBrno](https://ethbrno.cz/)IV |
 
-## Events Maintaners
+## Events maintaners
 
 - Tree ([@treecz](https://twitter.com/treecz))
 - Mykola Siusko ([@nicksvyaznoy](https://twitter.com/nicksvyaznoy))
@@ -34,9 +34,12 @@ This initiative was created to complement the research and community of [Web3Pri
 ## About Web3Privacy Now
 
 Web3privacy now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more.
-
 - Website: [web3privacy.info](http://web3privacy.info/)
+
+### Follow us
 - Twitter: [@web3privacy](http://twitter.com/web3privacy)
 - Bluesky: [@web3privacy.info](https://staging.bsky.app/profile/web3privacy.info)
+
+### Join our community
 - Matrix (space): [#web3privacy:gwei.cz](https://matrix.to/#/#web3privacy:gwei.cz)
 - Signal (chat): [chat.web3privacy.info](https://chat.web3privacy.info/)
