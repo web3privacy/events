@@ -23,7 +23,7 @@ This initiative was created to complement the research and community of [Web3Pri
 | *Meetup* | - | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona 2023](https://ethbarcelona.com/) |
 | *Meetup* | - | 2023-10-?? | 🇮🇹 Rome | 75 | [ETHRome 2023](https://ethrome.org/) |
 | **Summit #2** | **`w3ps2`** | **2023-11-02** | **🇨🇿 Brno** | **250** | [ETHBrno×3](https://ethbrno.cz/) |
-| *Summit* | - | *2024/Q1* | 🇪🇸 Barcelona | 300 ||
+| *Summit* | - | *2024/Q1* | 🇪🇸 Barcelona |||
 | *Summit* | - | *2024/Q2* | 🇨🇿 Prague ||| [Prague Blockchain Week 2024](https://prgblockweek.com/) |
 | *Summit* | - | *2024/Q3* | 🇺🇦 Kyiv || [Kyiv Tech Summit 2024](https://www.kyivtechsummit.com/) (?) |
 | *Summit* | - | *2024/Q4* | 🇨🇿 Brno || [ETHBrno IV](https://ethbrno.cz/) |
