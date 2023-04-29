@@ -12,8 +12,8 @@ The *Web3Privacy Events* is a regular gatherings of the people interested in pri
 This initiative was created to complement the research and community of [Web3Privacy Now](https://web3privacy.info).
 
 ## Event types
-* **Summit** (w3ps) - a day-long gathering (or longer) of privacy enthusiasts with discussions, lectures and workshops
-* **Meetup** (w3pm) - shorter gatherings for a few hours, with a few lectures and discussions
+* **Summit** (w3ps) - a day-long gathering (or longer)
+* **Meetup** (w3pm) - shorter gatherings for a few hours
 
 ## List of events
 
