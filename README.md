@@ -20,7 +20,7 @@ This initiative was created to complement the research and community of [Web3Pri
 | # | id | date | location (capacity) | links | coincidence |
 | --- | --- | --- | --- | --- | --- |
 | Summit #1 | [`w3ps1`](https://github.com/web3privacy/w3ps1) | 2023-06-05 | 🇨🇿 Prague (300) | [web](https://prague.web3privacy.info/) | [Prague Blockchain Week](https://prgblockweek.com/) 2023 | 
-| Meetup #1 | `w3pm1` | 2023-10-05 | 🇮🇹 Rome (75) || Around [ETHRome](https://ethrome.org/) 2023 |
+| Meetup #1 | `w3pm1` | 2023-10-05 | 🇮🇹 Rome (75) || Followed by [ETHRome](https://ethrome.org/) 2023 |
 | Summit #2 | `w3ps2` | 2023-11-02 | 🇨🇿 Brno (250) || Followed by [ETHBrno](https://ethbrno.cz/)×3 |
 | *Summit* | - | *2024/Q1* | 🇪🇸 Barcelona ||
 | *Summit* | - | *2024/Q2* | 🇨🇿 Prague || [Prague Blockchain Week](https://prgblockweek.com/) 2024? |
