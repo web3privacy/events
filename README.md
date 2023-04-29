@@ -32,7 +32,7 @@ This initiative was created to complement the research and community of [Web3Pri
 | # | id | date | location | capacity | coincidence |
 | --- | --- | --- | --- | --- | --- |
 | #1 | `w3pm1` | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona 2023](https://ethbarcelona.com/) |
-| #2 | `w3pm2` | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw 2023](https://www.ethwarsaw.dev/)
+| - | - | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw 2023](https://www.ethwarsaw.dev/)
 | - | - | *2023-09-??* | *🇩🇪 Berlin* || [Berlin Blockchain Week](https://ethrome.org/) w/ [Protocol Berg](https://protocol.berlin/) |
 | - | - | *2023-10-??* | *🇮🇹 Rome* || [ETHRome 2023](https://ethrome.org/) |
 | - | - | *2023-11-??* | *🇹🇷 Istanbul* || [Devconnect Istanbul 2023](https://devconnect.org/) |
