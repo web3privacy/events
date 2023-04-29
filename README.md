@@ -31,9 +31,9 @@ This initiative was created to complement the research and community of [Web3Pri
 ### Meetups
 | # | id | date | location | capacity | coincidence |
 | --- | --- | --- | --- | --- | --- |
-| #1 | - | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona 2023](https://ethbarcelona.com/) |
-| #2 | - | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw 2023](https://www.ethwarsaw.dev/)
-| #3 | - | 2023-10-?? | 🇮🇹 Rome || [ETHRome 2023](https://ethrome.org/) |
+| #1 | `w3pm1` | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona 2023](https://ethbarcelona.com/) |
+| #2 | `w3pm2` | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw 2023](https://www.ethwarsaw.dev/)
+| #3 | `w3pm3` | 2023-10-?? | 🇮🇹 Rome || [ETHRome 2023](https://ethrome.org/) |
 | - | - | *2023-11-??* | *🇹🇷 Istanbul* || [Devconnect Istanbul 2023](https://devconnect.org/) |
 | - | - | *2024/Q2* | *🇳🇱 Amsterdam* || [ETHDam 2024](https://www.ethdam.com/) |
 | - | - | *2024-05-??* | *🇩🇪 Berlin* || [Berlin Blockchain Week](https://blockchainweek.berlin/) w/ [ETHBerlin5](https://ethberlin.ooo/) |
