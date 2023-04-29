@@ -20,15 +20,18 @@ This initiative was created to complement the research and community of [Web3Pri
 
 | # | id | date | location | capacity | coincidence |
 | --- | --- | --- | --- | --- | --- |
-| **[Summit #1](https://prague.web3privacy.info/)** | **[`w3ps1`](https://github.com/web3privacy/w3ps1)** | **2023-06-05** | **🇨🇿 Prague** | **300** | [Prague Blockchain Week 2023](https://prgblockweek.com/) | 
+| **[Summit #1](https://prague.web3privacy.info/)** | **[`w3ps1`](https://github.com/web3privacy/w3ps1)** | **2023-06-05** | **🇨🇿 Prague** | **300** | [Prague Blockchain Week](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/) | 
 | *Meetup* | - | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona 2023](https://ethbarcelona.com/) |
-| *Meetup* | - | 2023-10-?? | 🇮🇹 Rome | 75 | [ETHRome 2023](https://ethrome.org/) |
+| *Meetup* | - | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw 2023](https://www.ethwarsaw.dev/)
+| *Meetup* | - | 2023-10-?? | 🇮🇹 Rome || [ETHRome 2023](https://ethrome.org/) |
 | **Summit #2** | **`w3ps2`** | **2023-11-02** | **🇨🇿 Brno** | **250** | [ETHBrno×3](https://ethbrno.cz/) |
 | *Meetup* | - | 2023-11-?? | 🇹🇷 Istanbul || [Devconnect Istanbul 2023](https://devconnect.org/) |
-| *Summit* | - | *2024/Q1* | 🇪🇸 Barcelona |||
-| *Summit* | - | *2024/Q2* | 🇨🇿 Prague ||| [Prague Blockchain Week 2024](https://prgblockweek.com/) |
-| *Summit* | - | *2024/Q3* | 🇺🇦 Kyiv || [Kyiv Tech Summit 2024](https://www.kyivtechsummit.com/) (?) |
-| *Summit* | - | *2024/Q4* | 🇨🇿 Brno || [ETHBrno IV](https://ethbrno.cz/) |
+| ***Summit*** | - | ***2024/Q1*** | **🇪🇸 Barcelona** |||
+| *Meetup* | - | *2024/Q2* | 🇳🇱 Amsterdam || [ETHDam 2024](https://www.ethdam.com/) |
+| *Meetup* | - | *2024-05-??* | 🇩🇪 Berlin || [Berlin Blockchain Week](https://blockchainweek.berlin/) w/ [ETHBerlin5](https://ethberlin.ooo/) |
+| ***Summit*** | - | ***2024-06-??*** | **🇨🇿 Prague** ||| [Prague Blockchain Week 2024](https://prgblockweek.com/) |
+| ***Summit*** | - | ***2024/Q3*** | **🇺🇦 Kyiv** || [Kyiv Tech Summit 2024](https://www.kyivtechsummit.com/) (?) |
+| ***Summit*** | - | ***2024/Q4*** | **🇨🇿 Brno** || [ETHBrno IV](https://ethbrno.cz/) |
 
 ## Events maintaners
 
