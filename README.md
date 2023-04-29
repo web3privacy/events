@@ -16,6 +16,7 @@ This initiative was created to complement the research and community of [Web3Pri
 * **Meetup** (w3pm) - shorter gatherings for a few hours
 
 ## List of events
+(in chronologic order)
 
 | # | id | date | location | capacity | coincidence |
 | --- | --- | --- | --- | --- | --- |
