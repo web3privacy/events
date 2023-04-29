@@ -20,10 +20,10 @@ This initiative was created to complement the research and community of [Web3Pri
 | # | id | date | location (capacity) | coincidence |
 | --- | --- | --- | --- | --- |
 | [Summit #1](https://prague.web3privacy.info/) | [`w3ps1`](https://github.com/web3privacy/w3ps1) | 2023-06-05 | 🇨🇿 Prague (300) | [Prague Blockchain Week](https://prgblockweek.com/) 2023 | 
-| *Meetup* | - | 2023-07-?? | 🇪🇸 Barcelona (50) | [ETHBarcelona](https://ethbarcelona.com/) 2023 |
-| *Meetup* | - | 2023-10-?? | 🇮🇹 Rome (75) | [ETHRome](https://ethrome.org/) 2023 |
-| Summit #2 | `w3ps2` | 2023-11-02 | 🇨🇿 Brno (250) | [ETHBrno](https://ethbrno.cz/)×3 |
-| *Summit* | - | *2024/Q1* | 🇪🇸 Barcelona (50) ||
+| *Meetup* | - | 2023-07-?? | 🇪🇸 Barcelona (50?) | [ETHBarcelona](https://ethbarcelona.com/) 2023 |
+| *Meetup* | - | 2023-10-?? | 🇮🇹 Rome (75?) | [ETHRome](https://ethrome.org/) 2023 |
+| Summit #2 | `w3ps2` | 2023-11-02 | 🇨🇿 Brno (250?) | [ETHBrno](https://ethbrno.cz/)×3 |
+| *Summit* | - | *2024/Q1* | 🇪🇸 Barcelona (300?) ||
 | *Summit* | - | *2024/Q2* | 🇨🇿 Prague | [Prague Blockchain Week](https://prgblockweek.com/) 2024? |
 | *Summit* | - | *2024/Q3* | 🇺🇦 Kyiv | [Kyiv Tech Summit](https://www.kyivtechsummit.com/) (?) |
 | *Summit* | - | *2024/Q4* | 🇨🇿 Brno | [ETHBrno](https://ethbrno.cz/)IV |
