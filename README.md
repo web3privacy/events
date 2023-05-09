@@ -11,6 +11,9 @@
 The *Web3Privacy Events* is a regular gatherings of the people interested in privacy in the Web3 industry.
 This initiative was created to complement the research and community of [Web3Privacy Now](https://web3privacy.info).
 
+Calendar with all events and links:
+* [lu.ma/web3privacy](https://lu.ma/web3privacy)
+
 ## Event types
 * **Summit** (w3ps) - a day-long gathering (or longer)
 * **Meetup** (w3pm) - shorter gatherings for a few hours
