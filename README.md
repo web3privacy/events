@@ -45,8 +45,8 @@ Calendar with all events and links:
 
 ## Events maintaners
 
-- Tree ([@treecz](https://twitter.com/treecz))
-- Mykola Siusko ([@nicksvyaznoy](https://twitter.com/nicksvyaznoy))
+- Tree ([@burningtree](https://github.com/burningtree))
+- Mykola Siusko ([@msiusko](https://github.com/Msiusko))
 
 ## About Web3Privacy Now
 
@@ -56,6 +56,7 @@ Web3privacy now is a research project aimed at building a culture of privacy ind
 ### Follow us
 - Twitter: [@web3privacy](http://twitter.com/web3privacy)
 - Bluesky: [@web3privacy.info](https://staging.bsky.app/profile/web3privacy.info)
+- Events: [lu.ma/web3privacy](https://lu.ma/web3privacy)
 
 ### Join our community
 - Matrix (space): [#web3privacy:gwei.cz](https://matrix.to/#/#web3privacy:gwei.cz)
