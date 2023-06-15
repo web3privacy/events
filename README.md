@@ -46,7 +46,7 @@ Calendar with all events and links:
 ## Events maintaners
 
 - Tree ([@burningtree](https://github.com/burningtree))
-- Mykola Siusko ([@msiusko](https://github.com/Msiusko))
+- PG [@EclecticSamurai](https://github.com/EclecticSamurai)
 
 ## About Web3Privacy Now
 
