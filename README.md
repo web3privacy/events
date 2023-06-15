@@ -34,19 +34,19 @@ Calendar with all events and links:
 ### Meetups
 | # id | date | location | 👥 | coincidence | dri |
 | --- | --- | --- | --- | --- | --- |
-| #1 → `w3pm1` | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona](https://ethbarcelona.com/) | Tree |
-| TBD | 2023-07-?? | 🇫🇷 Paris || [EthCC 6](https://www.ethcc.io/) | ? |
-| TBD | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw](https://www.ethwarsaw.dev/) | Tree |
-| TBD | *2023-09-??* | *🇩🇪 Berlin* || [BBW](https://ethrome.org/) w/ [Protocol Berg](https://protocol.berlin/) | Tree |
-| TBD | *2023-10-??* | *🇮🇹 Rome* || [ETHRome](https://ethrome.org/) | PG |
-| TBD | *2023-11-??* | *🇹🇷 Istanbul* || [Devconnect Istanbul](https://devconnect.org/) | Tree |
-| TBD | *2024/Q2* | *🇳🇱 Amsterdam* || [ETHDam 2024](https://www.ethdam.com/) ||
-| TBD | *2024-05-??* | *🇩🇪 Berlin* || [BBW](https://blockchainweek.berlin/) w/ [ETHBerlin5](https://ethberlin.ooo/) ||
+| `bcn-1` | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona](https://ethbarcelona.com/) | Tree |
+| `par-1` | 2023-07-?? | 🇫🇷 Paris || [EthCC 6](https://www.ethcc.io/) | ? |
+| `waw-1` | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw](https://www.ethwarsaw.dev/) | Tree |
+| `ber-1` | *2023-09-??* | *🇩🇪 Berlin* || [BBW](https://ethrome.org/) w/ [Protocol Berg](https://protocol.berlin/) | Tree |
+| `rom-1` | *2023-10-??* | *🇮🇹 Rome* || [ETHRome](https://ethrome.org/) | PG |
+| `ist-1` | *2023-11-??* | *🇹🇷 Istanbul* || [Devconnect Istanbul](https://devconnect.org/) | Tree |
+| `ams-1` | *2024/Q2* | *🇳🇱 Amsterdam* || [ETHDam 2024](https://www.ethdam.com/) ||
+| `ber-2` | *2024-05-??* | *🇩🇪 Berlin* || [BBW](https://blockchainweek.berlin/) w/ [ETHBerlin5](https://ethberlin.ooo/) ||
 
 ## Events maintaners
 
 - Tree ([@burningtree](https://github.com/burningtree))
-- PG [@EclecticSamurai](https://github.com/EclecticSamurai)
+- PG ([@EclecticSamurai](https://github.com/EclecticSamurai))
 
 ## About Web3Privacy Now
 
