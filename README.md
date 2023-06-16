@@ -14,7 +14,7 @@ This initiative was created to complement the research and community of [Web3Pri
 Calendar with all events and links:
 * [lu.ma/web3privacy](https://lu.ma/web3privacy)
 
-## Event types
+## Concepts
 * **Summit** (w3ps) - a day-long gathering (or longer)
 * **Meetup** (w3pm) - shorter gatherings for a few hours
 
