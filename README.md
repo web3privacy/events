@@ -34,7 +34,7 @@ Calendar with all events and links:
 ### Meetups
 | # id | date | location | 👥 | coincidence | dri |
 | --- | --- | --- | --- | --- | --- |
-| `bcn-1` | 2023-07-?? | 🇪🇸 Barcelona | 50 | [ETHBarcelona](https://ethbarcelona.com/) | Tree |
+| `bcn-1` | 2023-07-?? | 🇪🇸 Barcelona | 50 |  | Tree |
 | `par-1` | 2023-07-?? | 🇫🇷 Paris || [EthCC 6](https://www.ethcc.io/) | ? |
 | `waw-1` | 2023-08-?? | 🇵🇱 Warsaw || [ETHwarsaw](https://www.ethwarsaw.dev/) | Tree |
 | `ber-1` | *2023-09-??* | *🇩🇪 Berlin* || [BBW](https://ethrome.org/) w/ [Protocol Berg](https://protocol.berlin/) | Tree |

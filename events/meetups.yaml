@@ -1,0 +1,42 @@
+- id: w3pm-bcn-1
+  date: "2023-07-??"
+  city: Barcelona
+  country: es
+  coincidence: "[ETHBarcelona](https://ethbarcelona.com/)"
+  lead: TBD
+  visitors: 50
+
+- id: w3pm-waw-1
+  date: "2023-08-??"
+  city: Warsaw
+  country: pl
+  coincidence: "[ETHwarsaw](https://www.ethwarsaw.dev/)"
+  lead: Tree
+
+- id: w3pm-ber-1
+  date: "2023-09-??"
+  city: Berlin
+  country: de
+  coincidence: "[BBW](https://ethrome.org/) w/ [Protocol Berg](https://protocol.berlin/)"
+  lead: TBD
+
+- id: w3pm-rom-1
+  date: "2023-10-05"
+  city: Rome
+  country: it
+  coincidence: "[ETHRome](https://ethrome.org/)"
+  lead: PG
+
+- id: w3pm-ist-1
+  date: "2023-11-??"
+  city: Istanbul
+  country: tr
+  coincidence: "[Devconnect Istanbul](https://devconnect.org/)"
+  lead: TBD
+
+- id: w3pm-ams-1
+  date: "2024/Q2"
+  city: Amsterdam
+  country: nl
+  coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
+  lead: TBD

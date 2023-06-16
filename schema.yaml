@@ -1,0 +1,34 @@
+type: array
+items: { "$ref": "#/$defs/event" }
+$defs:
+  event:
+    type: object
+    additionalProperties: false
+    required:
+      - id
+      - date
+      - city
+      - country
+    properties:
+      id:
+        type: string
+      date:
+        type: string
+      city:
+        type: string
+      country:
+        type: string
+        pattern: "^\\w{2}$"
+      coincidence:
+        type: string
+      lead:
+        type: string
+      visitors:
+        type: number
+      links:
+        type: object
+        additionalProperties: false
+        patternProperties:
+          "^[\\w]+":
+            type: string
+            format: uri

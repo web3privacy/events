@@ -1,0 +1,48 @@
+import Ajv from "npm:ajv@8.8.2";
+import addFormats from "npm:ajv-formats@2.1.1";
+import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
+import { emptyDir } from "https://deno.land/std@0.173.0/fs/mod.ts";
+
+const types = [ "summits", "meetups" ]
+
+async function _loadYaml(fn) {
+  return yamlLoad(await Deno.readTextFile(fn));
+}
+
+async function test() {
+  const ajv = new Ajv({ strict: false });
+  addFormats(ajv);
+  const schema = await _loadYaml("./schema.yaml");
+  const validator = ajv.compile(schema);
+ 
+  for (const type of types) {
+    Deno.test(`Check schema: ${type}`, async () => {
+        const list = await _loadYaml(`./events/${type}.yaml`);
+        if (!validator(list)) {
+            throw validator.errors;
+        }
+    })
+  }
+}
+
+async function build() {
+    const output = {}
+    for (const type of types) {
+        const list = await _loadYaml(`./events/${type}.yaml`);
+        output[type] = list
+    }
+    await emptyDir("./dist")
+    const fn = "./dist/index.json"
+    await Deno.writeTextFile(fn, JSON.stringify(output, null, 2))
+    console.log(`File saved: `)
+}
+
+switch (Deno.args[0] || "test") {
+  case "test":
+    await test();
+    break;
+
+  case "build":
+    await build();
+    break;
+}
