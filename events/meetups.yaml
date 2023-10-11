@@ -13,11 +13,17 @@
   city: Istanbul
   country: tr
   coincidence: "[Devconnect Istanbul](https://devconnect.org/)"
-  lead: TBD
 
 - id: w3pm-ams-1
   date: "2024/May"
   city: Amsterdam
   country: nl
+  # ETHDam 2024 - May 10-12 2024
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
-  lead: TBD
+
+- id: w3pm-ber-1
+  date: "2024/May"
+  city: Berlin
+  country: de
+  # ETHBerlin 5 - May 24-26, 2024
+  coincidence: "ETHBerlin 5"

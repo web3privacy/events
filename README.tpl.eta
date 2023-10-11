@@ -29,7 +29,7 @@ Calendar with all events and links:
 | # id | date | location | 👥  | coincidence | dri |
 | --- | --- | --- | --- | --- | --- |
 <% it.events.summits.forEach(function(event, i){ %>
-| <% if (event.links?.web) { %>[#<%= i+1 %>](<%= event.links.web %>)<% } else { %>#<%= i+1%><% } %> → <% if (event.links?.git) { %>[`<%= event.id %>`](<%= event.links.git %>)<% } else { %>`<%= event.id %>`<% } %> | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead %> |
+| <% if (event.links?.web) { %>[#<%= i+1 %>](<%= event.links.web %>)<% } else { %>#<%= i+1%><% } %> → <% if (event.links?.git) { %>[`<%= event.id %>`](<%= event.links.git %>)<% } else { %>`<%= event.id %>`<% } %> | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> |
 <% }) %>
 
 ### Meetups
@@ -37,7 +37,7 @@ Calendar with all events and links:
 | # id | date | location | 👥 | coincidence | dri |
 | --- | --- | --- | --- | --- | --- |
 <% it.events.meetups.forEach(function(event, i){ %>
-| <% if (event.links?.web) { %>[#<%= i+1 %>](<%= event.links.web %>)<% } else { %>#<%= i+1%><% } %> → <% if (event.links?.git) { %>[`<%= event.id %>`](<%= event.links.git %>)<% } else { %>`<%= event.id %>`<% } %> | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead %> |
+| <% if (event.links?.web) { %>[#<%= i+1 %>](<%= event.links.web %>)<% } else { %>#<%= i+1%><% } %> → <% if (event.links?.git) { %>[`<%= event.id %>`](<%= event.links.git %>)<% } else { %>`<%= event.id %>`<% } %> | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> |
 <% }) %>
 
 ## Events maintaners

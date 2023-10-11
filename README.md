@@ -35,8 +35,9 @@ Calendar with all events and links:
 | # id | date | location | 👥 | coincidence | dri |
 | --- | --- | --- | --- | --- | --- |
 | [#1](https://lu.ma/web3privacynow_rome) → `w3pm-rom-1` | 2023-10-05 | 🇮🇹 Rome | 139 | [ETHRome](https://ethrome.org/) | PG |
-| #2 → `w3pm-ist-1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect Istanbul](https://devconnect.org/) | TBD |
-| #3 → `w3pm-ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | TBD |
+| #2 → `w3pm-ist-1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect Istanbul](https://devconnect.org/) | - |
+| #3 → `w3pm-ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |
+| #4 → `w3pm-ber-1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |
 
 ## Events maintaners
 
