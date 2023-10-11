@@ -4,18 +4,19 @@
   country: it
   coincidence: "[ETHRome](https://ethrome.org/)"
   lead: PG
+  visitors: 139
   links:
     web: https://lu.ma/web3privacynow_rome
 
 - id: w3pm-ist-1
-  date: "2023-11-??"
+  date: "2023/Nov"
   city: Istanbul
   country: tr
   coincidence: "[Devconnect Istanbul](https://devconnect.org/)"
   lead: TBD
 
 - id: w3pm-ams-1
-  date: "2024/Q2"
+  date: "2024/May"
   city: Amsterdam
   country: nl
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
