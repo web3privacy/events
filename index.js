@@ -47,7 +47,7 @@ async function build() {
 
   const readmeFn = "./README.md"
   const eta = new Eta({ views: "./" })
-  console.log(output)
+  //console.log(output)
   await Deno.writeTextFile(readmeFn, eta.render("./README.tpl.eta", { events: output, getFlagEmoji }))
   console.log(`File saved: `, readmeFn);
 }
