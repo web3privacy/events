@@ -8,11 +8,3 @@
   links:
     web: https://prague.web3privacy.info/
     git: https://github.com/web3privacy/w3ps1
-
-- id: w3ps2
-  date: "2023-11-02"
-  city: Brno
-  country: cz
-  coincidence: "[ETHBrno×3](https://ethbrno.cz/)"
-  lead: Tree
-  visitors: 250
