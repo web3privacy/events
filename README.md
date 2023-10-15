@@ -35,7 +35,7 @@ Calendar with all events and links:
 
 | # id | date | location | 👥  | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- |
-| #1 → [`w3ps1`](https://github.com/web3privacy/w3ps1) | 2023-06-05 | 🇨🇿 Prague | 180 | [PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/) | Tree | [web](https://prague.web3privacy.info/), [git](https://github.com/web3privacy/w3ps1) |
+| #1 → `w3ps1` | 2023-06-05 | 🇨🇿 Prague | 180 | [PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/) | Tree | [web](https://prague.web3privacy.info/), [git](https://github.com/web3privacy/w3ps1) |
 
 ### Meetups
 

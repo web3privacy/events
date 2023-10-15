@@ -29,7 +29,7 @@ Calendar with all events and links:
 | # id | date | location | 👥  | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- |
 <% it.events.summits.forEach(function(event, i){ %>
-| #<%= i+1%> → <% if (event.links?.git) { %>[`<%= event.id %>`](<%= event.links.git %>)<% } else { %>`<%= event.id %>`<% } %> | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
+| #<%= i+1%> → `<%= event.id %>` | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
 <% }) %>
 
 ### Meetups
