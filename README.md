@@ -35,13 +35,13 @@ Calendar with all events and links:
 
 | # id | date | location | 👥  | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- |
-| #1 → `w3ps1` | 2023-06-05 | 🇨🇿 Prague | 180 | [PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/) | Tree | [web](https://prague.web3privacy.info/), [git](https://github.com/web3privacy/w3ps1) |
+| #1 → `w3ps1` | **2023-06-05** | 🇨🇿 Prague | 180 | [PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/) | Tree | [web](https://prague.web3privacy.info/), [git](https://github.com/web3privacy/w3ps1) |
 
 ### Meetups
 
 | # id | date | location | 👥 | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- |
-| `rom-1` | 2023-10-05 | 🇮🇹 Rome | 139 | [ETHRome](https://ethrome.org/) | PG | [web](https://lu.ma/web3privacynow_rome) |
+| `rom-1` | **2023-10-05** | 🇮🇹 Rome | 139 | [ETHRome](https://ethrome.org/) | PG | [web](https://lu.ma/web3privacynow_rome) |
 | `ist-1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect Istanbul](https://devconnect.org/) | - |  |
 | `ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |  |
 | `ber-1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |  |

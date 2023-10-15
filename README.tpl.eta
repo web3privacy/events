@@ -29,7 +29,7 @@ Calendar with all events and links:
 | # id | date | location | 👥  | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- |
 <% it.events.summits.forEach(function(event, i){ %>
-| #<%= i+1%> → `<%= event.id %>` | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
+| #<%= i+1%> → `<%= event.id %>` | <%= event.date.match(/^\d{4}-\d{2}-\d{2}$/) ? `**${event.date}**` : event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
 <% }) %>
 
 ### Meetups
@@ -37,7 +37,7 @@ Calendar with all events and links:
 | # id | date | location | 👥 | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- |
 <% it.events.meetups.forEach(function(event, i){ %>
-| <% if (event.links?.git) { %>[`<%= event.id %>`](<%= event.links.git %>)<% } else { %>`<%= event.id.replace('w3pm-','') %>`<% } %> | <%= event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
+| <% if (event.links?.git) { %>[`<%= event.id %>`](<%= event.links.git %>)<% } else { %>`<%= event.id.replace('w3pm-','') %>`<% } %> | <%= event.date.match(/^\d{4}-\d{2}-\d{2}$/) ? `**${event.date}**` : event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
 <% }) %>
 
 ## Events maintaners
