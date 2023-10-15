@@ -55,7 +55,7 @@ EDIT "./README.tpl.eta" INSTEAD
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->`
 
-  await Deno.writeTextFile(readmeFn, warning + eta.render("./README.tpl.eta", { events: output, getFlagEmoji }))
+  await Deno.writeTextFile(readmeFn, warning + "\n\n" + eta.render("./README.tpl.eta", { events: output, getFlagEmoji }))
   console.log(`File saved: `, readmeFn);
 }
 
