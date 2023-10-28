@@ -18,9 +18,8 @@ The _Web3Privacy Events_ is a regular gatherings of the people interested in
 privacy in the Web3 industry. This initiative was created to complement the
 research and community of [Web3Privacy Now](https://web3privacy.info).
 
-Calendar with all events and links:
-
-- [lu.ma/web3privacy](https://lu.ma/web3privacy)
+- [Calendar with all events and RSVP](https://lu.ma/web3privacy) (lu.ma/web3privacy)
+- [Events coordination group](https://signal.group/#CjQKIBe2MFvE_lFDDaKbbLQkV9f6JnyKruZMof2tnnC-r74AEhC3daqvW8JEfSDvcWESqAQt) (Signal)
 
 ## Concepts
 
