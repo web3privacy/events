@@ -8,6 +8,15 @@
   links:
     web: https://lu.ma/web3privacynow_rome
 
+- id: w3pm-prg-1
+  date: "2023-11-14"
+  city: Prague
+  country: cz
+  coincidence: "[DCxPrague](https://dcxprague.org/)"
+  lead: Tree
+  links:
+    web: https://lu.ma/w3pm-prg1
+
 - id: w3pm-ist-1
   date: "2023/Nov"
   city: Istanbul
