@@ -41,6 +41,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | # id | date | location | 👥 | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- |
 | `rom-1` | **2023-10-05** | 🇮🇹 Rome | 139 | [ETHRome](https://ethrome.org/) | PG | [web](https://lu.ma/web3privacynow_rome) |
+| `prg-1` | **2023-11-14** | 🇨🇿 Prague | - | [DCxPrague](https://dcxprague.org/) | Tree | [web](https://lu.ma/w3pm-prg1) |
 | `ist-1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect Istanbul](https://devconnect.org/) | - |  |
 | `ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |  |
 | `ber-1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |  |
