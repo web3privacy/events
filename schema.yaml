@@ -1,5 +1,4 @@
-type: array
-items: { "$ref": "#/$defs/event" }
+$ref: "#/$defs/event"
 $defs:
   event:
     type: object
@@ -12,6 +11,11 @@ $defs:
     properties:
       id:
         type: string
+      type:
+        type: string
+        enum:
+          - summit
+          - meetup
       date:
         type: string
       city:

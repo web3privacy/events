@@ -1,4 +1,17 @@
+- id: w3ps1
+  type: summit
+  date: "2023-06-05"
+  city: Prague
+  country: cz
+  coincidence: "[PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/)"
+  lead: Tree
+  visitors: 180
+  links:
+    web: https://prague.web3privacy.info/
+    git: https://github.com/web3privacy/w3ps1
+
 - id: w3pm-rom-1
+  type: meetup
   date: "2023-10-05"
   city: Rome
   country: it
@@ -9,6 +22,7 @@
     web: https://lu.ma/web3privacynow_rome
 
 - id: w3pm-prg-1
+  type: meetup
   date: "2023-11-14"
   city: Prague
   country: cz
@@ -18,12 +32,14 @@
     web: https://lu.ma/w3pm-prg1
 
 - id: w3pm-ist-1
+  type: meetup
   date: "2023/Nov"
   city: Istanbul
   country: tr
   coincidence: "[Devconnect Istanbul](https://devconnect.org/)"
 
 - id: w3pm-ams-1
+  type: meetup
   date: "2024/May"
   city: Amsterdam
   country: nl
@@ -31,6 +47,7 @@
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
 
 - id: w3pm-ber-1
+  type: meetup
   date: "2024/May"
   city: Berlin
   country: de

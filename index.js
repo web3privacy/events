@@ -24,10 +24,11 @@ async function test() {
   const schema = await _loadYaml("./schema.yaml");
   const validator = ajv.compile(schema);
 
-  for (const type of types) {
-    Deno.test(`Check schema: ${type}`, async () => {
-      const list = await _loadYaml(`./events/${type}.yaml`);
-      if (!validator(list)) {
+  const list = await _loadYaml(`./events/events.yaml`);
+
+  for (const item of list) {
+    Deno.test(`${item.id}`, async () => {
+      if (!validator(item)) {
         throw validator.errors;
       }
     });
@@ -35,14 +36,10 @@ async function test() {
 }
 
 async function build() {
-  const output = {};
-  for (const type of types) {
-    const list = await _loadYaml(`./events/${type}.yaml`);
-    output[type] = list;
-  }
+  const list = await _loadYaml(`./events/events.yaml`);
   await emptyDir("./dist");
   const fn = "./dist/index.json";
-  await Deno.writeTextFile(fn, JSON.stringify(output, null, 2));
+  await Deno.writeTextFile(fn, JSON.stringify(list, null, 2));
   console.log(`File saved: `, fn);
 
   const readmeFn = "./README.md"
@@ -55,7 +52,7 @@ EDIT "./README.tpl.eta" INSTEAD
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->`
 
-  await Deno.writeTextFile(readmeFn, warning + "\n\n" + eta.render("./README.tpl.eta", { events: output, getFlagEmoji }))
+  await Deno.writeTextFile(readmeFn, warning + "\n\n" + eta.render("./README.tpl.eta", { events: list, getFlagEmoji }))
   console.log(`File saved: `, readmeFn);
 }
 
