@@ -30,21 +30,14 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 
 (in chronologic order)
 
-### Summits
-
-| # id | date | location | 👥  | coincidence | dri | links |
-| --- | --- | --- | --- | --- | --- | --- |
-| #1 → `w3ps1` | **2023-06-05** | 🇨🇿 Prague | 180 | [PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/) | Tree | [web](https://prague.web3privacy.info/), [git](https://github.com/web3privacy/w3ps1) |
-
-### Meetups
-
-| # id | date | location | 👥 | coincidence | dri | links |
-| --- | --- | --- | --- | --- | --- | --- |
-| `rom-1` | **2023-10-05** | 🇮🇹 Rome | 139 | [ETHRome](https://ethrome.org/) | PG | [web](https://lu.ma/web3privacynow_rome) |
-| `prg-1` | **2023-11-14** | 🇨🇿 Prague | - | [DCxPrague](https://dcxprague.org/) | Tree | [web](https://lu.ma/w3pm-prg1) |
-| `ist-1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect Istanbul](https://devconnect.org/) | - |  |
-| `ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |  |
-| `ber-1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |  |
+| type | # id | date | location | 👥  | coincidence | dri | links |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| summit | `w3ps1` | **2023-06-05** | 🇨🇿 Prague | 180 | [PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/) | Tree | [web](https://prague.web3privacy.info/), [git](https://github.com/web3privacy/w3ps1) |
+| meetup | `w3pm-rom-1` | **2023-10-05** | 🇮🇹 Rome | 139 | [ETHRome](https://ethrome.org/) | PG | [web](https://lu.ma/web3privacynow_rome) |
+| meetup | `w3pm-prg-1` | **2023-11-14** | 🇨🇿 Prague | - | [DCxPrague](https://dcxprague.org/) | Tree | [web](https://lu.ma/w3pm-prg1) |
+| meetup | `w3pm-ist-1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect Istanbul](https://devconnect.org/) | - |  |
+| meetup | `w3pm-ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |  |
+| meetup | `w3pm-ber-1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |  |
 
 ## Events maintaners
 
