@@ -75,6 +75,13 @@
   country: si
   coincidence: "W3PN Hackathon"
 
+- id: w3pm-bcn-1
+  type: meetup
+  date: "2024/Jul"
+  city: Barcelona
+  country: es
+  coincidence: "ETHBarcelona 2024 (?)"
+
 - id: w3pm-rom-2
   type: meetup
   date: "2024/Oct"
