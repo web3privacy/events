@@ -3,7 +3,7 @@
   date: "2023-06-05"
   city: Prague
   country: cz
-  coincidence: "[PBW](https://prgblockweek.com/) w/ [ETHPrague](https://ethprague.com/)"
+  coincidence: "[PBW](https://prgblockweek.com/)+[ETHPrague](https://ethprague.com/)"
   lead: Tree
   visitors: 180
   links:
@@ -36,7 +36,7 @@
   date: "2023/Nov"
   city: Istanbul
   country: tr
-  coincidence: "[Devconnect Istanbul](https://devconnect.org/)"
+  coincidence: "[Devconnect IST](https://devconnect.org/)"
 
 - id: w3pm-ams-1
   type: meetup
@@ -80,7 +80,7 @@
   date: "2024/Jul"
   city: Barcelona
   country: es
-  coincidence: "ETHBarcelona 2024 (?)"
+  coincidence: "ETHBarcelona (?)"
 
 - id: w3pm-rom-2
   type: meetup
