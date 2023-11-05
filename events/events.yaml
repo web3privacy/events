@@ -82,6 +82,13 @@
   country: es
   coincidence: "ETHBarcelona (?)"
 
+- id: w3pm-bru-1
+  type: meetup
+  date: "2024/Jul"
+  city: Brussels
+  country: be
+  coincidence: "[EthCC 7](https://www.ethcc.io/)"
+
 - id: w3pm-rom-2
   type: meetup
   date: "2024/Oct"
@@ -101,4 +108,4 @@
   date: "2024/Q4"
   city: SE Asia
   country: xx
-  coincidence: "Devcon 7"
+  coincidence: "[Devcon 7](https://devcon.org/)"
