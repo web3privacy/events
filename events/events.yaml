@@ -38,6 +38,20 @@
   country: tr
   coincidence: "[Devconnect IST](https://devconnect.org/)"
 
+- id: w3pm-bcn1
+  type: meetup
+  date: "2024/Q1"
+  city: Barcelona
+  country: es
+  coincidence: ""
+
+- id: w3pm-lib1
+  type: meetup
+  date: "2024/Mar"
+  city: Liberec
+  country: cz
+  coincidence: "[ETHBohemia](https://ethbohemia.ethevents.club/)"
+
 - id: w3pm-ams1
   type: meetup
   date: "2024/May"
@@ -75,7 +89,7 @@
   country: si
   coincidence: "W3PN Hackathon"
 
-- id: w3pm-bcn1
+- id: w3pm-bcn2
   type: meetup
   date: "2024/Jul"
   city: Barcelona

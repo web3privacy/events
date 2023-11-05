@@ -37,12 +37,14 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `rom1` | **2023-10-05** | 🇮🇹 Rome | 139 | [ETHRome](https://ethrome.org/) | PG | [web](https://lu.ma/web3privacynow_rome) |
 | meetup | `prg1` | **2023-11-14** | 🇨🇿 Prague | - | [DCxPrague](https://dcxprague.org/) | Tree | [web](https://lu.ma/w3pm-prg1) |
 | meetup | `ist1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect IST](https://devconnect.org/) | - |  |
+| meetup | `bcn1` | 2024/Q1 | 🇪🇸 Barcelona | - |  | - |  |
+| meetup | `lib1` | 2024/Mar | 🇨🇿 Liberec | - | [ETHBohemia](https://ethbohemia.ethevents.club/) | - |  |
 | meetup | `ams1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |  |
 | meetup | `ber1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |  |
 | summit | `s2` | 2024/Jun | 🇨🇿 Prague | - | ETHPrague 2024 | - |  |
 | hackathon | `h1` | 2024/Jun | 🇸🇮 Bled | - |  | - |  |
 | meetup | `lju1` | 2024/Jun | 🇸🇮 Ljubljana | - | W3PN Hackathon | - |  |
-| meetup | `bcn1` | 2024/Jul | 🇪🇸 Barcelona | - | ETHBarcelona (?) | - |  |
+| meetup | `bcn2` | 2024/Jul | 🇪🇸 Barcelona | - | ETHBarcelona (?) | - |  |
 | meetup | `bru1` | 2024/Jul | 🇧🇪 Brussels | - | [EthCC 7](https://www.ethcc.io/) | - |  |
 | meetup | `rom1` | 2024/Oct | 🇮🇹 Rome | - | ETHRome 2024 | - |  |
 | summit | `s3` | 2024/Nov | 🇨🇿 Brno | - | ETHBrno 2024 | - |  |
