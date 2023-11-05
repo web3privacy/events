@@ -44,6 +44,7 @@
   city: Barcelona
   country: es
   coincidence: ""
+  lead: Tree
 
 - id: w3pm-lib1
   type: meetup
