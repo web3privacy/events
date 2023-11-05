@@ -10,7 +10,7 @@
     web: https://prague.web3privacy.info/
     git: https://github.com/web3privacy/w3ps1
 
-- id: w3pm-rom-1
+- id: w3pm-rom1
   type: meetup
   date: "2023-10-05"
   city: Rome
@@ -21,7 +21,7 @@
   links:
     web: https://lu.ma/web3privacynow_rome
 
-- id: w3pm-prg-1
+- id: w3pm-prg1
   type: meetup
   date: "2023-11-14"
   city: Prague
@@ -31,14 +31,14 @@
   links:
     web: https://lu.ma/w3pm-prg1
 
-- id: w3pm-ist-1
+- id: w3pm-ist1
   type: meetup
   date: "2023/Nov"
   city: Istanbul
   country: tr
   coincidence: "[Devconnect IST](https://devconnect.org/)"
 
-- id: w3pm-ams-1
+- id: w3pm-ams1
   type: meetup
   date: "2024/May"
   city: Amsterdam
@@ -46,7 +46,7 @@
   # ETHDam 2024 - May 10-12 2024
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
 
-- id: w3pm-ber-1
+- id: w3pm-ber1
   type: meetup
   date: "2024/May"
   city: Berlin
@@ -68,28 +68,28 @@
   country: si
   coincidence: ""
 
-- id: w3pm-lju-1
+- id: w3pm-lju1
   type: meetup
   date: "2024/Jun"
   city: Ljubljana
   country: si
   coincidence: "W3PN Hackathon"
 
-- id: w3pm-bcn-1
+- id: w3pm-bcn1
   type: meetup
   date: "2024/Jul"
   city: Barcelona
   country: es
   coincidence: "ETHBarcelona (?)"
 
-- id: w3pm-bru-1
+- id: w3pm-bru1
   type: meetup
   date: "2024/Jul"
   city: Brussels
   country: be
   coincidence: "[EthCC 7](https://www.ethcc.io/)"
 
-- id: w3pm-rom-2
+- id: w3pm-rom1
   type: meetup
   date: "2024/Oct"
   city: Rome
@@ -103,7 +103,7 @@
   country: cz
   coincidence: "ETHBrno 2024"
 
-- id: w3pm-dc1
+- id: w3pm-dvc1
   type: meetup
   date: "2024/Q4"
   city: SE Asia
