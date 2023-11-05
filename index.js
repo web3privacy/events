@@ -9,6 +9,7 @@ async function _loadYaml(fn) {
 }
 
 function getFlagEmoji(countryCode) {
+  if (countryCode === 'xx') return "🏴‍☠️";
   const codePoints = countryCode
     .toUpperCase()
     .split('')
