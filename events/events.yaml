@@ -88,3 +88,10 @@
   city: Brno
   country: cz
   coincidence: "ETHBrno 2024"
+
+- id: w3pm-dc1
+  type: meetup
+  date: "2024/Q4"
+  city: SE Asia
+  country: xx
+  coincidence: "Devcon 7"
