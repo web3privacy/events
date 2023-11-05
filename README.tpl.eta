@@ -18,6 +18,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 
 - **Summit** (w3ps) - a day-long gathering (or longer)
 - **Meetup** (w3pm) - shorter gatherings for a few hours
+- **Hackathon** (w3ph) - a multi-day event including lectures, workshops and hacking
 
 ## List of events
 
@@ -26,7 +27,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | type | # id | date | location | 👥  | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 <% it.events.forEach(function(event, i){ %>
-| <%= event.type %> | `<%= event.id.replace("w3pm-", "") %>` | <%= event.date.match(/^\d{4}-\d{2}-\d{2}$/) ? `**${event.date}**` : event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
+| <%= event.type %> | `<%= event.id.replace("w3pm-", "").replace(/^w3p/, '') %>` | <%= event.date.match(/^\d{4}-\d{2}-\d{2}$/) ? `**${event.date}**` : event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.visitors || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
 <% }) %>
 
 [Source file](./events/events.yaml)
