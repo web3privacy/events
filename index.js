@@ -4,8 +4,6 @@ import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yam
 import { emptyDir } from "https://deno.land/std@0.173.0/fs/mod.ts";
 import { Eta } from "https://deno.land/x/eta@v3.0.3/src/index.ts"
 
-const types = ["summits", "meetups"];
-
 async function _loadYaml(fn) {
   return yamlLoad(await Deno.readTextFile(fn));
 }

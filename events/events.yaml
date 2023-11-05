@@ -61,6 +61,20 @@
   country: cz
   coincidence: "ETHPrague 2024"
 
+- id: w3ph1
+  type: hackathon
+  date: "2024/Jun"
+  city: Bled
+  country: si
+  coincidence: ""
+
+- id: w3pm-lju-1
+  type: meetup
+  date: "2024/Jun"
+  city: Ljubljana
+  country: si
+  coincidence: "W3PN Hackathon"
+
 - id: w3pm-rom-2
   type: meetup
   date: "2024/Oct"

@@ -16,6 +16,7 @@ $defs:
         enum:
           - summit
           - meetup
+          - hackathon
       date:
         type: string
       city:
