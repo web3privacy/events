@@ -38,6 +38,9 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `w3pm-ist-1` | 2023/Nov | 🇹🇷 Istanbul | - | [Devconnect Istanbul](https://devconnect.org/) | - |  |
 | meetup | `w3pm-ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |  |
 | meetup | `w3pm-ber-1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |  |
+| summit | `w3ps2` | 2024/Jun | 🇨🇿 Prague | - | ETHPrague 2024 | - |  |
+| meetup | `w3pm-rom-2` | 2024/Oct | 🇮🇹 Rome | - | ETHRome 2024 | - |  |
+| summit | `w3ps3` | 2024/Nov | 🇨🇿 Brno | - | ETHBrno 2024 | - |  |
 
 [Source file](./events/events.yaml)
 

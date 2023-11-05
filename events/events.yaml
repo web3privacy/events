@@ -53,3 +53,24 @@
   country: de
   # ETHBerlin 5 - May 24-26, 2024
   coincidence: "ETHBerlin 5"
+
+- id: w3ps2
+  type: summit
+  date: "2024/Jun"
+  city: Prague
+  country: cz
+  coincidence: "ETHPrague 2024"
+
+- id: w3pm-rom-2
+  type: meetup
+  date: "2024/Oct"
+  city: Rome
+  country: it
+  coincidence: "ETHRome 2024"
+
+- id: w3ps3
+  type: summit
+  date: "2024/Nov"
+  city: Brno
+  country: cz
+  coincidence: "ETHBrno 2024"
