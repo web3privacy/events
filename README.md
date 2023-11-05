@@ -46,6 +46,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `lju1` | 2024/Jun | 🇸🇮 Ljubljana | - | W3PN Hackathon | - |  |
 | meetup | `bcn2` | 2024/Jul | 🇪🇸 Barcelona | - | ETHBarcelona (?) | - |  |
 | meetup | `bru1` | 2024/Jul | 🇧🇪 Brussels | - | [EthCC 7](https://www.ethcc.io/) | - |  |
+| meetup | `waw1` | 2024/Sep | 🇵🇱 Warsaw | - | ETHWarsaw (?) | - |  |
 | meetup | `rom2` | 2024/Oct | 🇮🇹 Rome | - | ETHRome 2024 | - |  |
 | summit | `s3` | 2024/Nov | 🇨🇿 Brno | - | ETHBrno 2024 | - |  |
 | meetup | `dvc1` | 2024/Q4 | 🏴‍☠️ SE Asia | - | [Devcon 7](https://devcon.org/) | - |  |
