@@ -24,12 +24,18 @@ async function test() {
   const validator = ajv.compile(schema);
 
   const list = await _loadYaml(`./events/events.yaml`);
+  const ids = [];
 
   for (const item of list) {
     Deno.test(`${item.id}`, async () => {
       if (!validator(item)) {
         throw validator.errors;
       }
+      if (ids.includes(item.id)) {
+        throw `ID exists: ${item.id}`
+      }
+
+      ids.push(item.id)
     });
   }
 }
