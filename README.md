@@ -39,6 +39,8 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `w3pm-ams-1` | 2024/May | 🇳🇱 Amsterdam | - | [ETHDam 2024](https://www.ethdam.com/) | - |  |
 | meetup | `w3pm-ber-1` | 2024/May | 🇩🇪 Berlin | - | ETHBerlin 5 | - |  |
 
+[Source file](./events/events.yaml)
+
 ## Events maintaners
 
 - Tree ([@burningtree](https://github.com/burningtree))
