@@ -46,6 +46,14 @@
   coincidence: ""
   lead: Tree
 
+- id: w3pm-itxx
+  type: meetup
+  date: "2024/Q1"
+  city: Italy (TBD)
+  country: it
+  coincidence: ""
+  lead: PG
+
 - id: w3pm-lib1
   type: meetup
   date: "2024/Mar"
@@ -56,10 +64,10 @@
 
 - id: w3pm-ams1
   type: meetup
-  date: "2024/May"
+  date: "2024/Apr"
   city: Amsterdam
   country: nl
-  # ETHDam 2024 - May 10-12 2024
+  # ETHDam 2024 - April 12-14 2024
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
 
 - id: w3pm-ber1
