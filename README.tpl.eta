@@ -1,18 +1,18 @@
 ```
- ____ ____ ____ ____ 
-||W |||3 |||P |||E ||
-||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|
+ ____ ____ ____ ____ ____ 
+||W |||3 |||P |||N |||E ||
+||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/__\|
 ```
 
-# Web3Privacy Events (w3pe)
+# Web3Privacy Now Events (w3pne)
 
-The _Web3Privacy Events_ is a regular gatherings of the people interested in
+The _Web3Privacy Now Events_ is a regular gatherings of the people interested in
 privacy in the Web3 industry. This initiative was created to complement the
 research and community of [Web3Privacy Now](https://web3privacy.info).
 
 - [Calendar with all events and RSVP](https://lu.ma/web3privacy) (lu.ma/web3privacy)
-- [Events coordination group](https://signal.group/#CjQKIBe2MFvE_lFDDaKbbLQkV9f6JnyKruZMof2tnnC-r74AEhC3daqvW8JEfSDvcWESqAQt) (Signal)
+- [Events coordination group](https://matrix.to/#/#w3p-events:gwei.cz) @ Matrix
 
 ## Concepts
 
@@ -31,6 +31,8 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 <% }) %>
 
 [Source file](./events/events.yaml)
+
+Note: As you can see, most of the events are in Europe because most of the core team members are from Europe. If you would be willing to help us expand Web3Privacy Now Events to other regions, we would be very happy to do so! Please get in touch, ideally on [Matrix](https://matrix.web3privacy.info/).
 
 ## Events maintaners
 
