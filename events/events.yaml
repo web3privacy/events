@@ -131,6 +131,7 @@
   city: Rome
   country: it
   coincidence: "ETHRome 2024"
+  lead: PG
 
 - id: w3ps3
   type: summit
