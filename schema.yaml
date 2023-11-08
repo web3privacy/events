@@ -19,6 +19,8 @@ $defs:
           - hackathon
       date:
         type: string
+      days:
+        type: number
       city:
         type: string
       country:
@@ -28,6 +30,8 @@ $defs:
         type: string
       lead:
         type: string
+      slots:
+        type: number
       visitors:
         type: number
       links:
