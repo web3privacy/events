@@ -34,13 +34,6 @@
   links:
     web: https://lu.ma/w3pm-prg1
 
-- id: w3pm-ist1
-  type: meetup
-  date: "2023/Nov"
-  city: Istanbul
-  country: tr
-  coincidence: "[Devconnect IST](https://devconnect.org/)"
-
 - id: w3pm-bcn1
   type: meetup
   date: "2024/Q1"
@@ -128,6 +121,7 @@
   date: "2024/Jul"
   city: Brussels
   country: be
+  # EthCC 7 - July 8-11, 2024
   coincidence: "[EthCC 7](https://www.ethcc.io/)"
   slots: 3
 
@@ -158,7 +152,7 @@
   lead: Tree
   slots: 16
 
-- id: w3pm-dvc1
+- id: w3pm-dc1
   type: meetup
   date: "2024/Q4"
   city: SE Asia
