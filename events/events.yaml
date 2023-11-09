@@ -5,6 +5,7 @@
   country: cz
   coincidence: "[PBW](https://prgblockweek.com/)+[ETHPrague](https://ethprague.com/)"
   lead: Tree
+  slots: 16
   visitors: 180
   links:
     web: https://prague.web3privacy.info/
@@ -17,6 +18,7 @@
   country: it
   coincidence: "[ETHRome](https://ethrome.org/)"
   lead: PG
+  slots: 10
   visitors: 139
   links:
     web: https://lu.ma/web3privacynow_rome
@@ -28,15 +30,9 @@
   country: cz
   coincidence: "[DCxPrague](https://dcxprague.org/)"
   lead: Tree
+  slots: 5
   links:
     web: https://lu.ma/w3pm-prg1
-
-- id: w3pm-ist1
-  type: meetup
-  date: "2023/Nov"
-  city: Istanbul
-  country: tr
-  coincidence: "[Devconnect IST](https://devconnect.org/)"
 
 - id: w3pm-bcn1
   type: meetup
@@ -45,6 +41,7 @@
   country: es
   coincidence: ""
   lead: Tree
+  slots: 3
 
 - id: w3pm-itxx
   type: meetup
@@ -53,6 +50,7 @@
   country: it
   coincidence: ""
   lead: PG
+  slots: 3
 
 - id: w3pm-lib1
   type: meetup
@@ -61,6 +59,7 @@
   country: cz
   coincidence: "[ETHBohemia](https://ethbohemia.ethevents.club/)"
   lead: Tree
+  slots: 3
 
 - id: w3pm-ams1
   type: meetup
@@ -69,6 +68,7 @@
   country: nl
   # ETHDam 2024 - April 12-14 2024
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
+  slots: 3
 
 - id: w3pm-ber1
   type: meetup
@@ -78,6 +78,7 @@
   # ETHBerlin 5 - May 24-26, 2024
   coincidence: "ETHBerlin 5"
   lead: Tree
+  slots: 3
 
 - id: w3ps2
   type: summit
@@ -86,14 +87,17 @@
   country: cz
   coincidence: "ETHPrague 2024"
   lead: Tree
+  slots: 16
 
 - id: w3ph1
   type: hackathon
   date: "2024/Jun"
+  days: 7
   city: Bled
   country: si
   coincidence: ""
   lead: Tree
+  slots: 10
 
 - id: w3pm-lju1
   type: meetup
@@ -102,6 +106,7 @@
   country: si
   coincidence: "W3PN Hackathon"
   lead: Tree
+  slots: 5
 
 - id: w3pm-bcn2
   type: meetup
@@ -109,13 +114,16 @@
   city: Barcelona
   country: es
   coincidence: "ETHBarcelona (?)"
+  slots: 3
 
 - id: w3pm-bru1
   type: meetup
   date: "2024/Jul"
   city: Brussels
   country: be
+  # EthCC 7 - July 8-11, 2024
   coincidence: "[EthCC 7](https://www.ethcc.io/)"
+  slots: 3
 
 - id: w3pm-waw1
   type: meetup
@@ -124,6 +132,7 @@
   country: pl
   coincidence: "ETHWarsaw (?)"
   lead: Tree
+  slots: 3
 
 - id: w3pm-rom2
   type: meetup
@@ -132,6 +141,7 @@
   country: it
   coincidence: "ETHRome 2024"
   lead: PG
+  slots: 5
 
 - id: w3ps3
   type: summit
@@ -140,10 +150,12 @@
   country: cz
   coincidence: "ETHBrno 2024"
   lead: Tree
+  slots: 16
 
-- id: w3pm-dvc1
+- id: w3pm-dc1
   type: meetup
   date: "2024/Q4"
   city: SE Asia
   country: xx
   coincidence: "[Devcon 7](https://devcon.org/)"
+  slots: 5
