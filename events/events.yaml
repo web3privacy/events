@@ -41,6 +41,7 @@
   country: es
   coincidence: ""
   lead: Tree
+  optional: true
   slots: 3
 
 - id: w3pm-itxx
@@ -50,6 +51,7 @@
   country: it
   coincidence: ""
   lead: PG
+  optional: true
   slots: 3
 
 - id: w3pm-lib1
@@ -59,6 +61,7 @@
   country: cz
   coincidence: "[ETHBohemia](https://ethbohemia.ethevents.club/)"
   lead: Tree
+  optional: true
   slots: 3
 
 - id: w3pm-ams1
@@ -78,6 +81,7 @@
   # ETHTallinn - April 19 - 21, 2024
   coincidence: "[ETHTallinn](https://www.ethtallinn.org/)"
   slots: 3
+  optional: true
 
 - id: w3pm-por1
   type: meetup
@@ -86,6 +90,7 @@
   country: pt
   coincidence: "[ETHPorto](https://ethporto.org/)"
   slots: 3
+  optional: true
 
 - id: w3pm-ber1
   type: meetup
@@ -132,6 +137,7 @@
   country: es
   coincidence: "ETHBarcelona (?)"
   slots: 3
+  optional: true
 
 - id: w3pm-bru1
   type: meetup
@@ -151,6 +157,7 @@
   coincidence: "ETHWarsaw (?)"
   lead: Tree
   slots: 3
+  optional: true
 
 - id: w3pm-rom2
   type: meetup

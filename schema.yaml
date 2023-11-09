@@ -34,6 +34,8 @@ $defs:
         type: number
       visitors:
         type: number
+      optional:
+        type: boolean
       links:
         type: object
         additionalProperties: false
