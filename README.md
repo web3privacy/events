@@ -40,7 +40,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `itxx` | 2024/Q1 | 🇮🇹 Italy (TBD) | 3 |  | PG |  |
 | meetup | `lib1` | 2024/Mar | 🇨🇿 Liberec | 3 | [ETHBohemia](https://ethbohemia.ethevents.club/) | Tree |  |
 | meetup | `ams1` | 2024/Apr | 🇳🇱 Amsterdam | 3 | [ETHDam 2024](https://www.ethdam.com/) | - |  |
-| meetup | `ber1` | 2024/May | 🇩🇪 Berlin | 3 | ETHBerlin 5 | Tree |  |
+| meetup | `ber1` | 2024/May | 🇩🇪 Berlin | 3 | ETHBerlin 4 | Tree |  |
 | summit | `s2` | 2024/Jun | 🇨🇿 Prague | 16 | ETHPrague 2024 | Tree |  |
 | hackathon | `h1` | 2024/Jun | 🇸🇮 Bled | 10 |  | Tree |  |
 | meetup | `lju1` | 2024/Jun | 🇸🇮 Ljubljana | 5 | W3PN Hackathon | Tree |  |
