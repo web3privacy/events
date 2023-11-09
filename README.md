@@ -53,7 +53,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | summit | `s3` | 2024/Nov | 🇨🇿 Brno | 16 | ETHBrno 2024 | Tree |  |
 | meetup | `dc1` | 2024/Q4 | 🏴‍☠️ SE Asia | 5 | [Devcon 7](https://devcon.org/) | - |  |
 
-* - Optional event (can be cancelled due to lack of interest)
+`*` - Optional event (can be cancelled due to lack of interest)
 
 [Source file](./events/events.yaml)
 
