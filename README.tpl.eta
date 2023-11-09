@@ -30,6 +30,8 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | <%= event.type %> | `<%= event.id.replace("w3pm-", "").replace(/^w3p/, '') %>`<% if (event.optional) { %>*<% } %> | <%= event.date.match(/^\d{4}-\d{2}-\d{2}$/) ? `**${event.date}**` : event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.slots || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
 <% }) %>
 
+* - Optional event (can be cancelled due to lack of interest)
+
 [Source file](./events/events.yaml)
 
 Note: As you can see, most of the events are in Europe because most of the core team members are from Europe. If you would be willing to help us expand Web3Privacy Now Events to other regions, we would be very happy to do so! Please get in touch, ideally on [Matrix](https://matrix.web3privacy.info/).

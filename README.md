@@ -53,6 +53,8 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | summit | `s3` | 2024/Nov | 🇨🇿 Brno | 16 | ETHBrno 2024 | Tree |  |
 | meetup | `dc1` | 2024/Q4 | 🏴‍☠️ SE Asia | 5 | [Devcon 7](https://devcon.org/) | - |  |
 
+* - Optional event (can be cancelled due to lack of interest)
+
 [Source file](./events/events.yaml)
 
 Note: As you can see, most of the events are in Europe because most of the core team members are from Europe. If you would be willing to help us expand Web3Privacy Now Events to other regions, we would be very happy to do so! Please get in touch, ideally on [Matrix](https://matrix.web3privacy.info/).
