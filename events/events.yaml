@@ -70,6 +70,23 @@
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
   slots: 3
 
+- id: w3pm-tal1
+  type: meetup
+  date: "2024/Apr"
+  city: Tallinn
+  country: ee
+  # ETHTallinn - April 19 - 21, 2024
+  coincidence: "[ETHTallinn](https://www.ethtallinn.org/)"
+  slots: 3
+
+- id: w3pm-por1
+  type: meetup
+  date: "2024/May"
+  city: Porto
+  country: pt
+  coincidence: "[ETHPorto](https://ethporto.org/)"
+  slots: 3
+
 - id: w3pm-ber1
   type: meetup
   date: "2024/May"
@@ -124,6 +141,7 @@
   # EthCC 7 - July 8-11, 2024
   coincidence: "[EthCC 7](https://www.ethcc.io/)"
   slots: 3
+  lead: Mykola
 
 - id: w3pm-waw1
   type: meetup
