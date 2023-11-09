@@ -30,6 +30,10 @@ $defs:
         type: string
       lead:
         type: string
+      helpers:
+        type: array
+        items:
+          type: string
       slots:
         type: number
       visitors:

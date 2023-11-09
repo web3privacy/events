@@ -27,7 +27,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | type | # id | date | location | 🎰 | coincidence | dri | links |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 <% it.events.forEach(function(event, i){ %>
-| <%= event.type %> | `<%= event.id.replace("w3pm-", "").replace(/^w3p/, '') %>`<% if (event.optional) { %>*<% } %> | <%= event.date.match(/^\d{4}-\d{2}-\d{2}$/) ? `**${event.date}**` : event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.slots || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
+| <%= event.type %> | `<%= event.id.replace("w3pm-", "").replace(/^w3p/, '') %>`<% if (event.optional) { %>*<% } %> | <%= event.date.match(/^\d{4}-\d{2}-\d{2}$/) ? `**${event.date}**` : event.date %> | <%= it.getFlagEmoji(event.country) %> <%= event.city %> | <%= event.slots || '-' %> | <%= event.coincidence %> | <%= event.lead || "-" %><% if (event.helpers && event.helpers.length > 0) { %> (+<%= event.helpers.length%>)<% } %> | <%= (event.links && Object.keys(event.links).map(k => `[${k}](${event.links[k]})`).join(", ")) || "" %> |
 <% }) %>
 
 `*` - Optional event (can be cancelled due to lack of interest)

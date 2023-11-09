@@ -41,6 +41,8 @@
   country: es
   coincidence: ""
   lead: Tree
+  helpers:
+    -  Mykola
   optional: true
   slots: 3
 
@@ -69,6 +71,10 @@
   date: "2024/Apr"
   city: Amsterdam
   country: nl
+  lead: PG
+  helpers:
+    - Mykola
+    - Tree
   # ETHDam 2024 - April 12-14 2024
   coincidence: "[ETHDam 2024](https://www.ethdam.com/)"
   slots: 3
@@ -109,6 +115,10 @@
   country: cz
   coincidence: "ETHPrague 2024"
   lead: Tree
+  helpers:
+    - PG
+    - Mykola
+    - Coinmandeer
   slots: 16
 
 - id: w3ph1
@@ -119,6 +129,10 @@
   country: si
   coincidence: ""
   lead: Tree
+  helpers:
+    - PG
+    - Mykola
+    - Coinmandeer
   slots: 10
 
 - id: w3pm-lju1
@@ -128,6 +142,10 @@
   country: si
   coincidence: "W3PN Hackathon"
   lead: Tree
+  helpers:
+    - PG
+    - Mykola
+    - Coinmandeer
   slots: 5
 
 - id: w3pm-bcn2
@@ -148,6 +166,8 @@
   coincidence: "[EthCC 7](https://www.ethcc.io/)"
   slots: 3
   lead: Mykola
+  helpers:
+    - Tree
 
 - id: w3pm-waw1
   type: meetup
@@ -167,6 +187,8 @@
   coincidence: "ETHRome 2024"
   lead: PG
   slots: 5
+  helpers:
+     - Mykola
 
 - id: w3ps3
   type: summit
@@ -175,6 +197,10 @@
   country: cz
   coincidence: "ETHBrno 2024"
   lead: Tree
+  helpers:
+    - PG
+    - Mykola
+    - Coinmandeer
   slots: 16
 
 - id: w3pm-dc1
