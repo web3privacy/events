@@ -28,6 +28,8 @@ $defs:
       country:
         type: string
         pattern: "^\\w{2}$"
+      place:
+        type: string
       coincidence:
         type: string
       lead:

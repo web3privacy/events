@@ -3,6 +3,7 @@
   date: "2023-06-05"
   city: Prague
   country: cz
+  place: "[X10](https://www.divadlox10.cz/)"
   confirmed: true
   coincidence: "[ETHPrague](https://ethprague.com/)"
   lead: Tree
@@ -17,6 +18,7 @@
   date: "2023-10-05"
   city: Rome
   country: it
+  place: "[Villaggio Globale](https://maps.app.goo.gl/S7kUruNvbpjgHuSh9)"
   confirmed: true
   coincidence: "[ETHRome](https://ethrome.org/)"
   lead: PG
@@ -30,6 +32,7 @@
   date: "2023-11-14"
   city: Prague
   country: cz
+  place: "[Dílna](https://kafevdilne.cz/)"
   confirmed: true
   coincidence: "[DCxPrague](https://dcxprague.org/)"
   lead: Tree
@@ -142,6 +145,7 @@
   days: 7
   city: Bled
   country: si
+  place: "[Subwork](https://subwork.xyz/)"
   confirmed: true
   coincidence: "W3PN Hackathon"
   lead: Tree
