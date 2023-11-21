@@ -40,18 +40,18 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `itxx`* | ⌛ | 2024/Q1 | 🇮🇹 Italy (TBD) | 3 |  | PG |  |
 | meetup | `lib1`* | ⌛ | 2024/Mar | 🇨🇿 Liberec | 3 | [ETHBohemia](https://ethbohemia.ethevents.club/) | Tree |  |
 | meetup | `buc1`* | ⌛ | 2024/Mar | 🇷🇴 Bucharest | 3 | ETHBucharest | - (+1) |  |
-| meetup | `ams1` | ⌛ | 2024/Apr | 🇳🇱 Amsterdam | 3 | [ETHDam](https://www.ethdam.com/) | PG (+2) |  |
+| meetup | `ams1` | ⌛ | **2024-04-11** | 🇳🇱 Amsterdam | 3 | [ETHDam](https://www.ethdam.com/) | PG (+2) |  |
 | meetup | `tal1`* | ⌛ | 2024/Apr | 🇪🇪 Tallinn | 3 | [ETHTallinn](https://www.ethtallinn.org/) | - |  |
 | meetup | `por1`* | ⌛ | 2024/May | 🇵🇹 Porto | 3 | [ETHPorto](https://ethporto.org/) | - |  |
 | meetup | `ber1` | ⌛ | 2024/May | 🇩🇪 Berlin | 3 | ETHBerlin | Tree |  |
 | summit | `s3` | ⌛ | 2024/Jun | 🇨🇿 Prague | 16 | ETHPrague | Tree (+3) |  |
 | hackathon | `h1` | ✅ | **2024-06-19** -<br/>**2024-06-26** | 🇸🇮 Bled | 10 | W3PN Hackathon | Tree (+3) |  |
 | meetup | `lju1` | ⌛ | **2024-06-21** | 🇸🇮 Ljubljana | 5 | W3PN Hackathon | Tree (+3) |  |
-| meetup | `bcn2`* | ⌛ | 2024/Jul | 🇪🇸 Barcelona | 3 | ETHBarcelona (?) | - |  |
+| meetup | `bcn2`* | ⌛ | 2024/Jul | 🇪🇸 Barcelona | 3 | ETHBarcelona | - |  |
 | meetup | `bru1` | ⌛ | 2024/Jul | 🇧🇪 Brussels | 3 | [EthCC](https://www.ethcc.io/) | Mykola (+1) |  |
-| meetup | `waw1`* | ⌛ | 2024/Sep | 🇵🇱 Warsaw | 3 | ETHWarsaw (?) | Tree |  |
+| meetup | `waw1`* | ⌛ | 2024/Sep | 🇵🇱 Warsaw | 3 | ETHWarsaw | Tree |  |
 | meetup | `rom2` | ⌛ | 2024/Oct | 🇮🇹 Rome | 5 | ETHRome | PG (+1) |  |
-| summit | `s4` | ⌛ | 2024/Oct | 🇨🇿 Brno | 16 | ETHBrno | Tree (+3) |  |
+| summit | `s4` | ⌛ | **2024-10-24** | 🇨🇿 Brno | 16 | ETHBrno | Tree (+3) |  |
 | meetup | `dc1` | ⌛ | 2024/Q4 | 🏴‍☠️ SE Asia | 5 | [Devcon](https://devcon.org/) | - |  |
 
 `*` - Optional event (can be cancelled due to lack of interest)

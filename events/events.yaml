@@ -83,7 +83,7 @@
 
 - id: w3pm-ams1
   type: meetup
-  date: "2024/Apr"
+  date: "2024-04-11"
   city: Amsterdam
   country: nl
   lead: PG
@@ -169,7 +169,7 @@
   date: "2024/Jul"
   city: Barcelona
   country: es
-  coincidence: "ETHBarcelona (?)"
+  coincidence: "ETHBarcelona"
   slots: 3
   optional: true
 
@@ -190,7 +190,7 @@
   date: "2024/Sep"
   city: Warsaw
   country: pl
-  coincidence: "ETHWarsaw (?)"
+  coincidence: "ETHWarsaw"
   lead: Tree
   slots: 3
   optional: true
@@ -208,7 +208,7 @@
 
 - id: w3ps4
   type: summit
-  date: "2024/Oct"
+  date: "2024-10-24"
   city: Brno
   country: cz
   coincidence: "ETHBrno"
