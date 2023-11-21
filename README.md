@@ -45,7 +45,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `por1`* | 2024/May | 🇵🇹 Porto | 3 | [ETHPorto](https://ethporto.org/) | - |  |
 | meetup | `ber1` | 2024/May | 🇩🇪 Berlin | 3 | ETHBerlin | Tree |  |
 | summit | `s3` | 2024/Jun | 🇨🇿 Prague | 16 | ETHPrague | Tree (+3) |  |
-| hackathon | `h1` | **2024-06-19** -<br/>2024-06-26 (7) | 🇸🇮 Bled | 10 | W3PN Hackathon | Tree (+3) |  |
+| hackathon | `h1` | **2024-06-19**-<br/>**2024-06-26** | 🇸🇮 Bled | 10 | W3PN Hackathon | Tree (+3) |  |
 | meetup | `lju1` | 2024/Jun | 🇸🇮 Ljubljana | 5 | W3PN Hackathon | Tree (+3) |  |
 | meetup | `bcn2`* | 2024/Jul | 🇪🇸 Barcelona | 3 | ETHBarcelona (?) | - |  |
 | meetup | `bru1` | 2024/Jul | 🇧🇪 Brussels | 3 | [EthCC](https://www.ethcc.io/) | Mykola (+1) |  |
