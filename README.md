@@ -51,7 +51,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `bru1` | 2024/Jul | 🇧🇪 Brussels | 3 | [EthCC 7](https://www.ethcc.io/) | Mykola (+1) |  |
 | meetup | `waw1`* | 2024/Sep | 🇵🇱 Warsaw | 3 | ETHWarsaw (?) | Tree |  |
 | meetup | `rom2` | 2024/Oct | 🇮🇹 Rome | 5 | ETHRome 2024 | PG (+1) |  |
-| summit | `s4` | 2024/Nov | 🇨🇿 Brno | 16 | ETHBrno 2024 | Tree (+3) |  |
+| summit | `s4` | 2024/Oct | 🇨🇿 Brno | 16 | ETHBrno 2024 | Tree (+3) |  |
 | meetup | `dc1` | 2024/Q4 | 🏴‍☠️ SE Asia | 5 | [Devcon 7](https://devcon.org/) | - |  |
 
 `*` - Optional event (can be cancelled due to lack of interest)
