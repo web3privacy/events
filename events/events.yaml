@@ -11,8 +11,8 @@
     web: https://prague.web3privacy.info/
     git: https://github.com/web3privacy/w3ps1
 
-- id: w3pm-rom1
-  type: meetup
+- id: w3ps2
+  type: summit
   date: "2023-10-05"
   city: Rome
   country: it
@@ -31,6 +31,7 @@
   coincidence: "[DCxPrague](https://dcxprague.org/)"
   lead: Tree
   slots: 5
+  visitors: 15
   links:
     web: https://lu.ma/w3pm-prg1
 
@@ -117,7 +118,7 @@
   lead: Tree
   slots: 3
 
-- id: w3ps2
+- id: w3ps3
   type: summit
   date: "2024/Jun"
   city: Prague
@@ -199,7 +200,7 @@
   helpers:
      - Mykola
 
-- id: w3ps3
+- id: w3ps4
   type: summit
   date: "2024/Nov"
   city: Brno
