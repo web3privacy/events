@@ -185,7 +185,7 @@
 
 - id: w3pm-bru1
   type: meetup
-  date: "2024/Jul"
+  date: "2024-07-12"
   city: Brussels
   country: be
   # EthCC 7 - July 8-11, 2024
@@ -194,6 +194,8 @@
   lead: Mykola
   helpers:
     - Tree
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-bru1
 
 - id: w3pm-waw1
   type: meetup
