@@ -120,13 +120,15 @@
 
 - id: w3pm-ber1
   type: meetup
-  date: "2024/May"
+  date: "2024-05-25"
   city: Berlin
   country: de
   # ETHBerlin 4 - May 24-26, 2024
   coincidence: "ETHBerlin"
   lead: Tree
   slots: 3
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-berlin1
 
 - id: w3ps3
   type: summit
