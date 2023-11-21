@@ -66,6 +66,15 @@
   optional: true
   slots: 3
 
+- id: w3pm-buc1
+  type: meetup
+  date: "2024/Mar"
+  city: Bucharest
+  country: ro
+  coincidence: "ETHBucharest"
+  optional: true
+  slots: 3
+
 - id: w3pm-ams1
   type: meetup
   date: "2024/Apr"
