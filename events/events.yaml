@@ -96,6 +96,8 @@
   # ETHDam 2024 - April 12-14 2024
   coincidence: "[ETHDam](https://www.ethdam.com/)"
   slots: 3
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-ams1
 
 - id: w3pm-tal1
   type: meetup
@@ -169,6 +171,8 @@
     - Mykola
     - Coinmandeer
   slots: 5
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-ljubljana1
 
 - id: w3pm-bcn2
   type: meetup
