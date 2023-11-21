@@ -132,7 +132,7 @@
 
 - id: w3ps3
   type: summit
-  date: "2024/Jun"
+  date: "2024-06-04"
   city: Prague
   country: cz
   coincidence: "ETHPrague"
@@ -142,6 +142,8 @@
     - Mykola
     - Coinmandeer
   slots: 16
+  links:
+    rsvp: https://lu.ma/w3pn-summit-prague2
 
 - id: w3ph1
   type: hackathon
