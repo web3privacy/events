@@ -154,6 +154,8 @@
     - Mykola
     - Coinmandeer
   slots: 10
+  links:
+    rsvp: https://lu.ma/w3pn-bled-hackathon1
 
 - id: w3pm-lju1
   type: meetup
