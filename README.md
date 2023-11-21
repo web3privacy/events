@@ -50,9 +50,9 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `bcn2`* | ⌛ | 2024/Jul | 🇪🇸 Barcelona | 3 | ETHBarcelona | - |  |
 | meetup | `bru1` | ⌛ | **2024-07-12** | 🇧🇪 Brussels | 3 | [EthCC](https://www.ethcc.io/) | Mykola (+1) | [rsvp](https://lu.ma/w3pn-meetup-bru1) |
 | meetup | `waw1`* | ⌛ | 2024/Sep | 🇵🇱 Warsaw | 3 | ETHWarsaw | Tree |  |
-| meetup | `rom2` | ⌛ | 2024/Oct | 🇮🇹 Rome | 5 | ETHRome | PG (+1) |  |
+| meetup | `rom2` | ⌛ | **2024-10-04** | 🇮🇹 Rome | 5 | ETHRome | PG (+1) | [rsvp](https://lu.ma/w3pn-meetup-rome1) |
 | summit | `s4` | ⌛ | **2024-10-24** | 🇨🇿 Brno | 16 | ETHBrno | Tree (+3) | [rsvp](https://lu.ma/w3pn-summit-brno1) |
-| meetup | `dc1` | ⌛ | 2024/Q4 | 🏴‍☠️ SE Asia | 5 | [Devcon](https://devcon.org/) | - |  |
+| meetup | `dc1` | ⌛ | **2024-11-20** | 🏴‍☠️ SE Asia | 5 | [Devcon](https://devcon.org/) | - | [rsvp](https://lu.ma/w3pn-meetup-devcon7) |
 
 `*` - Optional event (can be cancelled due to lack of interest)
 

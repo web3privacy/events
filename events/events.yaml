@@ -213,7 +213,7 @@
 
 - id: w3pm-rom2
   type: meetup
-  date: "2024/Oct"
+  date: "2024-10-04"
   city: Rome
   country: it
   coincidence: "ETHRome"
@@ -221,6 +221,8 @@
   slots: 5
   helpers:
      - Mykola
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-rome1
 
 - id: w3ps4
   type: summit
@@ -239,8 +241,11 @@
 
 - id: w3pm-dc1
   type: meetup
-  date: "2024/Q4"
+  date: "2024-11-20"
   city: SE Asia
   country: xx
+  # Devcon 7 - probably November (?)
   coincidence: "[Devcon](https://devcon.org/)"
   slots: 5
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-devcon7
