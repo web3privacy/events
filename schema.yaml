@@ -17,6 +17,8 @@ $defs:
           - summit
           - meetup
           - hackathon
+      confirmed:
+        type: boolean
       date:
         type: string
       days:

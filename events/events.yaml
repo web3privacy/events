@@ -3,6 +3,7 @@
   date: "2023-06-05"
   city: Prague
   country: cz
+  confirmed: true
   coincidence: "[ETHPrague](https://ethprague.com/)"
   lead: Tree
   slots: 16
@@ -16,6 +17,7 @@
   date: "2023-10-05"
   city: Rome
   country: it
+  confirmed: true
   coincidence: "[ETHRome](https://ethrome.org/)"
   lead: PG
   slots: 10
@@ -28,6 +30,7 @@
   date: "2023-11-14"
   city: Prague
   country: cz
+  confirmed: true
   coincidence: "[DCxPrague](https://dcxprague.org/)"
   lead: Tree
   slots: 5
@@ -138,7 +141,8 @@
   date: "2024-06-19"
   days: 7
   city: Bled
-  country: si
+  country: sl
+  confirmed: true
   coincidence: "W3PN Hackathon"
   lead: Tree
   helpers:
@@ -149,7 +153,7 @@
 
 - id: w3pm-lju1
   type: meetup
-  date: "2024/Jun"
+  date: "2024-06-21"
   city: Ljubljana
   country: si
   coincidence: "W3PN Hackathon"
