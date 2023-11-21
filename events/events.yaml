@@ -228,6 +228,8 @@
     - Mykola
     - Coinmandeer
   slots: 16
+  links:
+    rsvp: https://lu.ma/w3pn-summit-brno1
 
 - id: w3pm-dc1
   type: meetup
