@@ -75,6 +75,8 @@
   coincidence: "ETHBucharest"
   optional: true
   slots: 3
+  helpers:
+    - Alina
 
 - id: w3pm-ams1
   type: meetup
