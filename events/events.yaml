@@ -79,7 +79,7 @@
   city: Bucharest
   country: ro
   # ETHBucharest 2024 - March 28-30 2024
-  coincidence: "ETHBucharest"
+  coincidence: "[ETHBucharest](https://www.ethbucharest.xyz/)"
   optional: true
   slots: 3
   lead: Tree
