@@ -97,6 +97,7 @@
   helpers:
     - Mykola
     - Tree
+    - Alina
   # ETHDam 2024 - April 12-14 2024
   coincidence: "[ETHDam](https://www.ethdam.com/)"
   slots: 3
@@ -225,6 +226,7 @@
   slots: 5
   helpers:
      - Mykola
+     - Alina
   links:
     rsvp: https://lu.ma/w3pn-meetup-rome1
 

@@ -40,7 +40,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `itxx`* | ⌛ | 2024/Q1 | 🇮🇹 Italy (TBD) | 3 |  | PG |  |
 | meetup | `lib1`* | ⌛ | 2024/Mar | 🇨🇿 Liberec | 3 | [ETHBohemia](https://ethbohemia.ethevents.club/) | Tree |  |
 | meetup | `buc1`* | ⌛ | **2024-03-28** | 🇷🇴 Bucharest | 3 | [ETHBucharest](https://www.ethbucharest.xyz/) | Tree (+1) | [rsvp](https://lu.ma/w3pn-meetup-bucharest1) |
-| meetup | `ams1` | ⌛ | **2024-04-11** | 🇳🇱 Amsterdam | 3 | [ETHDam](https://www.ethdam.com/) | PG (+2) | [rsvp](https://lu.ma/w3pn-meetup-ams1) |
+| meetup | `ams1` | ⌛ | **2024-04-11** | 🇳🇱 Amsterdam | 3 | [ETHDam](https://www.ethdam.com/) | PG (+3) | [rsvp](https://lu.ma/w3pn-meetup-ams1) |
 | meetup | `tal1`* | ⌛ | 2024/Apr | 🇪🇪 Tallinn | 3 | [ETHTallinn](https://www.ethtallinn.org/) | - |  |
 | meetup | `por1`* | ⌛ | 2024/May | 🇵🇹 Porto | 3 | [ETHPorto](https://ethporto.org/) | - |  |
 | meetup | `ber1` | ⌛ | **2024-05-25** | 🇩🇪 Berlin | 3 | ETHBerlin | Tree | [rsvp](https://lu.ma/w3pn-meetup-berlin1) |
@@ -50,7 +50,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `bcn2`* | ⌛ | 2024/Jul | 🇪🇸 Barcelona | 3 | ETHBarcelona | - |  |
 | meetup | `bru1` | ⌛ | **2024-07-12** | 🇧🇪 Brussels | 3 | [EthCC](https://www.ethcc.io/) | Mykola (+1) | [rsvp](https://lu.ma/w3pn-meetup-bru1) |
 | meetup | `waw1`* | ⌛ | 2024/Sep | 🇵🇱 Warsaw | 3 | ETHWarsaw | Tree |  |
-| meetup | `rom2` | ⌛ | **2024-10-04** | 🇮🇹 Rome | 5 | ETHRome | PG (+1) | [rsvp](https://lu.ma/w3pn-meetup-rome1) |
+| meetup | `rom2` | ⌛ | **2024-10-04** | 🇮🇹 Rome | 5 | ETHRome | PG (+2) | [rsvp](https://lu.ma/w3pn-meetup-rome1) |
 | summit | `s4` | ⌛ | **2024-10-24** | 🇨🇿 Brno | 16 | ETHBrno | Tree (+3) | [rsvp](https://lu.ma/w3pn-summit-brno1) |
 | meetup | `dc1` | ⌛ | **2024-11-20** | 🏴‍☠️ SE Asia | 5 | [Devcon](https://devcon.org/) | - | [rsvp](https://lu.ma/w3pn-meetup-devcon7) |
 
