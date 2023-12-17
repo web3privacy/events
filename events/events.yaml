@@ -137,9 +137,10 @@
 
 - id: w3ps3
   type: summit
-  date: "2024-06-04"
+  date: "2024-05-30"
   city: Prague
   country: cz
+  # ETHPrague 2024 - May 31-June 2 2024
   coincidence: "ETHPrague"
   lead: Tree
   helpers:
