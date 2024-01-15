@@ -125,9 +125,10 @@
 
 - id: w3pm-ber1
   type: meetup
-  date: "2024-05-25"
+  date: "2024-05-22"
   city: Berlin
   country: de
+  place: "[c-base](https://c-base.org/)"
   # ETHBerlin 4 - May 24-26, 2024
   coincidence: "ETHBerlin"
   lead: Tree
