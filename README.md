@@ -43,7 +43,7 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | meetup | `ams1` | ⌛ | **2024-04-11** | 🇳🇱 Amsterdam | 3 | [ETHDam](https://www.ethdam.com/) | PG (+3) | [rsvp](https://lu.ma/w3pn-meetup-ams1) |
 | meetup | `tal1`* | ⌛ | 2024/Apr | 🇪🇪 Tallinn | 3 | [ETHTallinn](https://www.ethtallinn.org/) | - |  |
 | meetup | `por1`* | ⌛ | 2024/May | 🇵🇹 Porto | 3 | [ETHPorto](https://ethporto.org/) | - |  |
-| meetup | `ber1` | ⌛ | **2024-05-25** | 🇩🇪 Berlin | 3 | ETHBerlin | Tree | [rsvp](https://lu.ma/w3pn-meetup-berlin1) |
+| meetup | `ber1` | ⌛ | **2024-05-22** | 🇩🇪 Berlin | 3 | ETHBerlin | Tree | [rsvp](https://lu.ma/w3pn-meetup-berlin1) |
 | summit | `s3` | ⌛ | **2024-06-04** | 🇨🇿 Prague | 16 | ETHPrague | Tree (+3) | [rsvp](https://lu.ma/w3pn-summit-prague2) |
 | hackathon | `h1` | ✅ | **2024-06-19** -<br/>**2024-06-26** | 🇸🇮 Bled | 10 | W3PN Hackathon | Tree (+3) | [rsvp](https://lu.ma/w3pn-bled-hackathon1) |
 | meetup | `lju1` | ⌛ | **2024-06-21** | 🇸🇮 Ljubljana | 5 | W3PN Hackathon | Tree (+3) | [rsvp](https://lu.ma/w3pn-meetup-ljubljana1) |
