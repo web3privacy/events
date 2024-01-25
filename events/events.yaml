@@ -41,25 +41,13 @@
   links:
     web: https://lu.ma/w3pm-prg1
 
-- id: w3pm-bcn1
+- id: w3pm-ath1
   type: meetup
   date: "2024/Q1"
-  city: Barcelona
-  country: es
+  city: Athens
+  country: gr
   coincidence: ""
-  lead: Tree
-  helpers:
-    -  Mykola
-  optional: true
-  slots: 3
-
-- id: w3pm-itxx
-  type: meetup
-  date: "2024/Q1"
-  city: Italy (TBD)
-  country: it
-  coincidence: ""
-  lead: PG
+  lead: Mykola
   optional: true
   slots: 3
 

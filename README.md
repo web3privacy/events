@@ -36,15 +36,14 @@ research and community of [Web3Privacy Now](https://web3privacy.info).
 | summit | `s1` | ✅ | **2023-06-05** | 🇨🇿 Prague | 16 | [ETHPrague](https://ethprague.com/) | Tree | [web](https://prague.web3privacy.info/), [git](https://github.com/web3privacy/w3ps1) |
 | summit | `s2` | ✅ | **2023-10-05** | 🇮🇹 Rome | 10 | [ETHRome](https://ethrome.org/) | PG | [web](https://lu.ma/web3privacynow_rome) |
 | meetup | `prg1` | ✅ | **2023-11-14** | 🇨🇿 Prague | 3 | [DCxPrague](https://dcxprague.org/) | Tree | [web](https://lu.ma/w3pm-prg1) |
-| meetup | `bcn1`* | ⌛ | 2024/Q1 | 🇪🇸 Barcelona | 3 |  | Tree (+1) |  |
-| meetup | `itxx`* | ⌛ | 2024/Q1 | 🇮🇹 Italy (TBD) | 3 |  | PG |  |
+| meetup | `ath1`* | ⌛ | 2024/Q1 | 🇬🇷 Athens | 3 |  | Mykola |  |
 | meetup | `lib1`* | ⌛ | 2024/Mar | 🇨🇿 Liberec | 3 | [ETHBohemia](https://ethbohemia.ethevents.club/) | Tree |  |
 | meetup | `buc1`* | ⌛ | **2024-03-28** | 🇷🇴 Bucharest | 3 | [ETHBucharest](https://www.ethbucharest.xyz/) | Tree (+1) | [rsvp](https://lu.ma/w3pn-meetup-bucharest1) |
 | meetup | `ams1` | ⌛ | **2024-04-11** | 🇳🇱 Amsterdam | 3 | [ETHDam](https://www.ethdam.com/) | PG (+3) | [rsvp](https://lu.ma/w3pn-meetup-ams1) |
 | meetup | `tal1`* | ⌛ | 2024/Apr | 🇪🇪 Tallinn | 3 | [ETHTallinn](https://www.ethtallinn.org/) | - |  |
 | meetup | `por1`* | ⌛ | 2024/May | 🇵🇹 Porto | 3 | [ETHPorto](https://ethporto.org/) | - |  |
 | meetup | `ber1` | ⌛ | **2024-05-22** | 🇩🇪 Berlin | 3 | ETHBerlin | Tree | [rsvp](https://lu.ma/w3pn-meetup-berlin1) |
-| summit | `s3` | ⌛ | **2024-06-04** | 🇨🇿 Prague | 16 | ETHPrague | Tree (+3) | [rsvp](https://lu.ma/w3pn-summit-prague2) |
+| summit | `s3` | ⌛ | **2024-05-30** | 🇨🇿 Prague | 16 | ETHPrague | Tree (+3) | [rsvp](https://lu.ma/w3pn-summit-prague2) |
 | hackathon | `h1` | ✅ | **2024-06-19** -<br/>**2024-06-26** | 🇸🇮 Bled | 10 | W3PN Hackathon | Tree (+3) | [rsvp](https://lu.ma/w3pn-bled-hackathon1) |
 | meetup | `lju1` | ⌛ | **2024-06-21** | 🇸🇮 Ljubljana | 5 | W3PN Hackathon | Tree (+3) | [rsvp](https://lu.ma/w3pn-meetup-ljubljana1) |
 | meetup | `bcn2`* | ⌛ | 2024/Jul | 🇪🇸 Barcelona | 3 | ETHBarcelona | - |  |
