@@ -34,3 +34,15 @@ Within Web3Privacy Now, events are handled as a separate [Workgroup](https://doc
 
 * Workgroup lead: Tree ([@burningtree](https://github.com/burningtree))
 * [Project Management (PM)](https://github.com/orgs/web3privacy/projects/7)
+
+### Event Management
+
+We use the GitHub Project [W3PN Events](https://github.com/orgs/web3privacy/projects/7) to organize and manage all events and their status.
+
+Every event has:
+- its own "Issue" in [this repository](https://github.com/web3privacy/events/issues)
+- status in [W3PN Events](https://github.com/orgs/web3privacy/projects/7) project
+- entry in the [data repository](https://github.com/web3privacy/data/tree/main/src/events) and [website listing](https://web3privacy.info/events)
+- organizational Signal group (specified in Issue)
+
+Feel free to suggest & comment! 💛
