@@ -21,6 +21,8 @@ All information about our events, including an explanation of all concepts and s
 
 * [docs.web3privacy.info/events](https://docs.web3privacy.info/events/)
 
+<a href="https://docs.web3privacy.info/events/"><img width="75%" alt="W3PN Events Documentation" src="https://github.com/web3privacy/events/assets/67269/1c1cd6a6-7e27-4a7e-aabb-9c73f15bde77"></a>
+
 ## Structured data
 
 A machine-readable list of all our events and their details is available:
@@ -44,5 +46,14 @@ Every event has:
 - status in [W3PN Events](https://github.com/orgs/web3privacy/projects/7) project
 - entry in the [data repository](https://github.com/web3privacy/data/tree/main/src/events) and [website listing](https://web3privacy.info/events)
 - organizational Signal group (specified in Issue)
+
+
+#### Screenshots
+<a href="https://github.com/orgs/web3privacy/projects/7"><img width="75%" alt="W3PN Events GitHub project (Overview)" src="https://github.com/web3privacy/events/assets/67269/fc021e7c-2472-461a-a4b3-3fed3aae9f9c"></a>
+<a href="https://github.com/orgs/web3privacy/projects/7/views/2"><img width="75%" alt="W3PN Events GitHub project (Roadmap)" src="https://github.com/web3privacy/events/assets/67269/3e775ca1-6158-4e3c-86d6-3436ac3d62ac"></a>
+
+
+
+---
 
 Feel free to suggest & comment! 💛
