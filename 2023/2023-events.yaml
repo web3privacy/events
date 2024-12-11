@@ -68,9 +68,7 @@
     - costanza-gallo
     - pg
     - catsnaks
-
-# 2023 EVENTS
-
+    
 - id: m23prg
   type: meetup
   date: "2023-11-14"
