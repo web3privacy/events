@@ -2,6 +2,7 @@
 
 | id | type | date | city | country | place | place-address | coincidence | links | github |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |
 - id: s23prg
   type: summit
   date: "2023-06-05"
