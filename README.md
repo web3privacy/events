@@ -1,15 +1,15 @@
 ```
- ____ ____ ____ ____ ____ 
-||W |||3 |||P |||N |||E ||
-||__|||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|/__\|
+ ____ ____ ____ ____  
+||W |||3 |||P |||N ||
+||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|
 ```
 
-# Web3Privacy Now Events (w3pne)
+# Web3Privacy Now (W3PN) Events repositroy
 
-The _Web3Privacy Now Events_ is a regular gatherings of the people interested in
-privacy in the Web3 industry. This initiative was created to complement the
-research and community of [Web3Privacy Now](https://web3privacy.info).
+_Web3Privacy Now_ hosts many different types of gathering and events for the people interested in privacy in the Web3 ecosystem. This initiative was created to complement the research and community of [Web3Privacy Now](https://web3privacy.info).
+
+This Respository contains information and guides on how our Events operate, and acts also as a archive of the events hosted throughout the years (see folders)
 
 * List of all events: [web3privacy.info/events](https://web3privacy.info/events/)
 * [Events with RSVP](https://lu.ma/web3privacy) @ lu.ma
@@ -27,33 +27,13 @@ All information about our events, including an explanation of all concepts and s
 
 A machine-readable list of all our events and their details is available:
 
-* Dataset (JSON format): [data.web3privacy.info](https://data.web3privacy.info/)
-* Source: [github.com/web3privacy/data/tree/main/src/events](https://github.com/web3privacy/data/tree/main/src/events)
+* Full dataset in JSON format: [data.web3privacy.info](https://data.web3privacy.info/)
+* Source file for Events: [github.com/web3privacy/data/tree/main/src/events](https://github.com/web3privacy/data/tree/main/src/events)
 
 ## Workgroup
 
 Within Web3Privacy Now, events are handled as a separate [Workgroup](https://docs.web3privacy.info/workgroups).
 
-* Workgroup lead: Tree ([@burningtree](https://github.com/burningtree))
-* [Project Management (PM)](https://github.com/orgs/web3privacy/projects/7)
+* Workgroup lead:  
+* Project Management (PM): 
 
-### Event Management
-
-We use the GitHub Project [W3PN Events](https://github.com/orgs/web3privacy/projects/7) to organize and manage all events and their status.
-
-Every event has:
-- its own "Issue" in [this repository](https://github.com/web3privacy/events/issues)
-- status in [W3PN Events](https://github.com/orgs/web3privacy/projects/7) project
-- entry in the [data repository](https://github.com/web3privacy/data/tree/main/src/events) and [website listing](https://web3privacy.info/events)
-- organizational Signal group (specified in Issue)
-
-
-#### Screenshots
-<a href="https://github.com/orgs/web3privacy/projects/7"><img width="75%" alt="W3PN Events GitHub project (Overview)" src="https://github.com/web3privacy/events/assets/67269/fc021e7c-2472-461a-a4b3-3fed3aae9f9c"></a>
-<a href="https://github.com/orgs/web3privacy/projects/7/views/2"><img width="75%" alt="W3PN Events GitHub project (Roadmap)" src="https://github.com/web3privacy/events/assets/67269/3e775ca1-6158-4e3c-86d6-3436ac3d62ac"></a>
-
-
-
----
-
-Feel free to suggest & comment! 💛
