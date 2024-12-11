@@ -1,0 +1,317 @@
+- id: c24bkk
+  type: congress
+  date: "2024-11-11"
+  city: Bangkok
+  country: th
+  # DevCon 2024 - November 12-15 2024
+  place: "[TBA](https://congress.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: "[DevCon](https://devcon.org)"
+  lead: Mykola
+  slots: 16
+  visitors: 300
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-devcon7
+    web: https://congress.web3privacy.info/
+  speakers:
+    - ameen-soleimani
+    - scott-moore
+    - silke-noa
+    - kurt-opsahl
+    - nick-almond
+    - jarrad-hope
+    - adrian-brink
+    - alan-scott
+    - andreas-miroyato
+    - ahmed-ghappour
+    - alex-gluchowski
+    - amit-chaudhary
+    - ann-brody
+    - claire-kart
+    - costanza-gallo
+    - daniel-luca
+    - lefteris-karapetsas
+    - lasha-antatze
+    - auryn-macmillan
+    - bob-summerwill
+    - manu-alzuru
+    - dapplion
+    - kris
+    - hsinju-chuang
+    - michelle-lai
+    - ying-tong
+
+- id: m24buc
+  issue: 8
+  type: meetup
+  date: "2024-03-28"
+  city: Bucharest
+  country: ro
+  # ETHBucharest 2024 - March 28-30 2024
+  coincidence: "[ETHBucharest](https://www.ethbucharest.xyz/)"
+  optional: true
+  slots: 3
+  lead: Mykola
+  visitors: 80
+  design:
+    image: bucharest01
+  helpers:
+    - Alina
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-bucharest1
+  speakers:
+    - tim-bansemer
+    - mykola-siusko
+    - gabari
+    - kieran-mesquita
+
+- id: m24ams
+  issue: 9
+  type: meetup
+  date: "2024-04-11"
+  city: Amsterdam
+  country: nl
+  place: "[Vrij Paleis](https://www.vrijpaleis.nl/)"
+  place-address: Paleisstraat 107, 1012 ZL Amsterdam, Paesi Bassi
+  lead: PG
+  visitors: 90
+  helpers:
+    - Mykola
+    - Alina
+  # ETHDam 2024 - April 12-14 2024
+  coincidence: "[ETHDam](https://www.ethdam.com/)"
+  slots: 3
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-ams1
+  speakers:
+    - kieran-mesquita
+    - moritz-boullenger
+    - sterlin-lujan
+    - pg
+    - serinko
+  design:
+    image: amsterdam01
+
+- id: m24ber
+  issue: 6
+  type: meetup
+  date: "2024-05-22"
+  city: Berlin
+  country: de
+  place: "[c-base](https://c-base.org/)"
+  place-address: Rungestraße 20, 10179 Berlin
+  # ETHBerlin 4 - May 24-26, 2024
+  coincidence: "ETHBerlin"
+  lead: Mykola
+  visitors: 150
+  helpers:
+    - ligi
+  speakers:
+    - afri-schoedon
+    - joshua-davila
+    - vaclav-pavlin
+    - jaya-klara-brekke
+    - mykola-siusko
+  slots: 4
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-berlin1
+  design:
+    image: berlin03
+
+- id: pc24ber
+  type: privacy-corner
+  date: "2024-05-24"
+  days: 3
+  city: Berlin
+  country: de
+  coincidence: "ETHBerlin"
+  lead: Tree
+  helpers:
+    - Mykola
+    - Coinmandeer
+    - Robert
+  visitors: 210
+  links:
+    web: https://c24ber.web3privacy.info/
+  design:
+    image: berlin02
+
+- id: s24prg
+  issue: 11
+  type: summit
+  date: "2024-05-30"
+  city: Prague
+  country: cz
+  # ETHPrague 2024 - May 31-June 2 2024
+  coincidence: "ETHPrague"
+  lead: PG
+  visitors: 180
+  helpers:
+    - PG
+    - Mykola
+    - Coinmandeer
+  slots: 16
+  links:
+    rsvp: https://lu.ma/w3pn-summit-prague2
+  speakers:
+    - pavol-luptak
+    - jaromil
+    - gabari
+    - vaclav-pavlin
+    - radek-svarz
+    - mykola-siusko
+    - andreas-tsamados
+    - serinko
+    - sebastian-burgel
+    - mykola-siusko
+    - ameen-soleimani
+    - steffen-kux
+    - althea
+    - nick-almond
+    - juraj-bednar
+    - max-hampshire
+    - mario-havel
+    - alex-kampa
+    - sterlin-lujan
+
+  design:
+    image: prague01
+
+- id: m24bru
+  issue: 16
+  type: meetup
+  date: "2024-07-12"
+  city: Brussels
+  country: be
+  # EthCC 7 - July 8-11, 2024
+  coincidence: "[EthCC](https://www.ethcc.io/)"
+  slots: 3
+  design:
+    image: brussels01
+  lead: Mykola
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-bru1
+  speakers:
+    - edward-fricker
+    - joshua-davila
+    - mykola-siusko
+
+
+- id: m24rom
+  issue: 13
+  type: meetup
+  date: "2024-10-03"
+  city: Rome
+  country: it
+  coincidence: "ETHRome"
+  lead: PG
+  slots: 5
+  design:
+    image: rome02
+  helpers:
+     - Mykola
+     - Alina
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-rome1
+  speakers:
+    - jaromil
+    - arturo-filasto
+    - luca-lezzerini
+    - andrea-togni
+    - emanuele-russo
+    - marco-castignoli
+
+
+    
+- id: s23prg
+  type: summit
+  date: "2023-06-05"
+  city: Prague
+  country: cz
+  place: "[X10](https://www.divadlox10.cz/)"
+  place-address: Charvátova 39/10, 11000 Prague 1
+  confirmed: true
+  coincidence: "[ETHPrague](https://ethprague.com/)"
+  lead: Tree
+  slots: 16
+  visitors: 180
+  links:
+    web: https://prague.web3privacy.info/
+    git: https://github.com/web3privacy/w3ps1
+  speakers:
+    - ameen-soleimani
+    - guy-zyskind
+    - max-hampshire
+    - antoni-zolciak
+    - rachel-rose-oleary
+    - alex-kampa
+    - oliver-gale
+    - mario-havel
+    - costanza-gallo 
+    - manu-alzuru
+    - nick-almond
+    - juraj-bednar
+    - dcbuilder
+    - alona-shevchenko
+    - tibor-csoka
+    - merula
+    - serinko
+    - steffen-kux
+    - althea
+    - mykola-siusko
+    - pg
+    - tree
+
+- id: s23rom
+  type: summit
+  date: "2023-10-05"
+  city: Rome
+  country: it
+  place: "[Villaggio Globale](https://maps.app.goo.gl/S7kUruNvbpjgHuSh9)"
+  place-address: Largo Dino Frisullo, 00153 Roma RM
+  confirmed: true
+  coincidence: "[ETHRome](https://ethrome.org/)"
+  lead: PG
+  slots: 10
+  visitors: 139
+  links:
+    web: https://lu.ma/web3privacynow_rome
+  speakers:
+    - eleanore-blanc
+    - rik-krieger
+    - vincenzo-iovino
+    - alan-scott
+    - kieran-mesquita
+    - andrea-togni
+    - jaromil
+    - serinko
+    - vaclav-pavlin
+    - alex-zaidelson
+    - r-prokh
+    - carlo-chialastri
+    - limone-eth
+    - costanza-gallo
+    - pg
+    - catsnaks
+
+# 2023 EVENTS
+
+- id: m23prg
+  type: meetup
+  date: "2023-11-14"
+  city: Prague
+  country: cz
+  place: "[Dílna](https://kafevdilne.cz/)"
+  place-address: Smíchovská náplavka - Kobka č. 10, Hořejší nábřeží, Praha 5
+  confirmed: true
+  coincidence: "[DCxPrague](https://dcxprague.org/)"
+  lead: Tree
+  slots: 3
+  visitors: 15
+  links:
+    web: https://lu.ma/w3pm-prg1
+  speakers:
+    - vaclav-pavlin
+    - radek-svarz
+    - marcel-kolaja
