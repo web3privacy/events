@@ -1,0 +1,102 @@
+- id: c25bue
+  type: congress
+  date: "2025-11-01"
+  city: Buenos Aires
+  country: ar
+  place: "[TBA](https://congress.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: "[DevCon](https://devcon.org)"
+  lead: Mykola
+  slots: 16
+  visitors: 3000
+  links:
+    rsvp: https://lu.ma/u2sw5kpv
+    web: https://congress.web3privacy.info/
+  speakers:
+    - mykola-siusko
+    - pg
+    - coinmandeer
+    - mf
+    
+- id: m25rom
+  type: meetup
+  date: "2025-10-09"
+  city: Rome
+  country: it
+  place: "[TBA](https://web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: "[ETHRome](https://www.ethrome.org)"
+  lead: Mykola
+  slots: 16
+  visitors: 300
+  links:
+    rsvp: https://lu.ma/8jv4odjn
+  speakers:
+    - mykola-siusko
+    - pg
+    - coinmandeer
+    - mf
+
+- id: s25ber
+  type: summit
+  date: "2025-06-15"
+  city: Berlin
+  country: de
+  place: "[TBA](https://summit.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: "Berlin Blockchain Week"
+  lead: Mykola
+  slots: 16
+  visitors: 300
+  links:
+    rsvp: https://lu.ma/gdp7vt8u
+    web: https://summit.web3privacy.info/
+  speakers:
+    - mykola-siusko
+    - pg
+    - coinmandeer
+    - mf
+
+- id: m25prg
+  type: meetup
+  date: "2025-06-06"
+  city: Prague
+  country: cz
+  place: "[TBA](https://congress.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: "[ETHPrague](https://ethprague.com)"
+  lead: Mykola
+  slots: 16
+  visitors: 300
+  links:
+    rsvp: https://lu.ma/jhp1iapn
+  speakers:
+    - mykola-siusko
+    - pg
+    - coinmandeer
+    - mf
+
+- id: m25dam
+  type: meetup
+  date: "2025-05-08"
+  city: Amsterdam
+  country: nl
+  place: "[TBA](https://congress.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: "[ETHDam](https://www.ethdam.com)"
+  lead: Mykola
+  slots: 16
+  visitors: 300
+  links:
+    rsvp: https://lu.ma/73go30ij
+    web: https://congress.web3privacy.info
+  speakers:
+    - mykola-siusko
+    - pg
+    - coinmandeer
+    - mf
