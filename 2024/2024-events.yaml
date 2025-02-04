@@ -1,47 +1,3 @@
-- id: c24bkk
-  type: congress
-  date: "2024-11-11"
-  city: Bangkok
-  country: th
-  # DevCon 2024 - November 12-15 2024
-  place: "[TBA](https://congress.web3privacy.info)"
-  place-address: TBA
-  confirmed: true
-  coincidence: "[DevCon](https://devcon.org)"
-  lead: Mykola
-  slots: 16
-  visitors: 300
-  links:
-    rsvp: https://lu.ma/w3pn-meetup-devcon7
-    web: https://congress.web3privacy.info/
-  speakers:
-    - ameen-soleimani
-    - scott-moore
-    - silke-noa
-    - kurt-opsahl
-    - nick-almond
-    - jarrad-hope
-    - adrian-brink
-    - alan-scott
-    - andreas-miroyato
-    - ahmed-ghappour
-    - alex-gluchowski
-    - amit-chaudhary
-    - ann-brody
-    - claire-kart
-    - costanza-gallo
-    - daniel-luca
-    - lefteris-karapetsas
-    - lasha-antatze
-    - auryn-macmillan
-    - bob-summerwill
-    - manu-alzuru
-    - dapplion
-    - kris
-    - hsinju-chuang
-    - michelle-lai
-    - ying-tong
-
 - id: m24buc
   issue: 8
   type: meetup
@@ -197,7 +153,6 @@
     - joshua-davila
     - mykola-siusko
 
-
 - id: m24rom
   issue: 13
   type: meetup
@@ -221,3 +176,47 @@
     - andrea-togni
     - emanuele-russo
     - marco-castignoli
+
+- id: c24bkk
+  type: congress
+  date: "2024-11-11"
+  city: Bangkok
+  country: th
+  # DevCon 2024 - November 12-15 2024
+  place: "[TBA](https://congress.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: "[DevCon](https://devcon.org)"
+  lead: Mykola
+  slots: 16
+  visitors: 300
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-devcon7
+    web: https://congress.web3privacy.info/
+  speakers:
+    - ameen-soleimani
+    - scott-moore
+    - silke-noa
+    - kurt-opsahl
+    - nick-almond
+    - jarrad-hope
+    - adrian-brink
+    - alan-scott
+    - andreas-miroyato
+    - ahmed-ghappour
+    - alex-gluchowski
+    - amit-chaudhary
+    - ann-brody
+    - claire-kart
+    - costanza-gallo
+    - daniel-luca
+    - lefteris-karapetsas
+    - lasha-antatze
+    - auryn-macmillan
+    - bob-summerwill
+    - manu-alzuru
+    - dapplion
+    - kris
+    - hsinju-chuang
+    - michelle-lai
+    - ying-tong
